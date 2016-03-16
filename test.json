@@ -1,0 +1,705 @@
+{
+  "status": 200,
+  "copyright": "Copyright (c) 2016 Turner Broadcasting System, Inc. All Rights Reserved.",
+  "results": 1,
+  "start": 0,
+  "links": {
+    "next": null,
+    "nextUri": null,
+    "prev": null,
+    "prevUri": null,
+    "self": "http://ref.hypatia.services.dmtio.net/svc/content/v2/search/collection1/url:http%3A%2F%2Fwww.cnn.com%2F2016%2F03%2F09%2Fus%2Fseattle-explosion%2Findex.html",
+    "selfUri": "/svc/content/v2/search/collection1/url:http%3A%2F%2Fwww.cnn.com%2F2016%2F03%2F09%2Fus%2Fseattle-explosion%2Findex.html"
+  },
+  "docs": [
+    {
+      "id": "h_a78bbf8cb5073b1ea97c630fd2e09578",
+      "sourceId": "article_7B91705A-56C5-7EC5-6157-5B256A560F59",
+      "type": "article",
+      "dataSource": "cnn",
+      "schema": "/svc/content/v2/schema/article.schema.json",
+      "schemaVersion": 2,
+      "status": {
+        "state": "published"
+      },
+      "firstPublishDate": "2016-03-09T12:17:12Z",
+      "lastPublishDate": "2016-03-09T22:27:12Z",
+      "lastModifiedDate": "2016-03-09T22:27:11Z",
+      "slug": "Seattle Explosion",
+      "url": "http://www.cnn.com/2016/03/09/us/seattle-explosion/index.html",
+      "headline": "Massive blast rips Seattle's Greenwood neighborhood, gas leak suspected",
+      "title": "Seattle explosion: Blast rips through Greenwood neighborhood",
+      "mobileHeadline": "Blast rips through Seattle neighborhood",
+      "socialHeadline": null,
+      "description": [
+        {
+          "id": "0",
+          "plaintext": "A massive explosion ripped through Seattle's Greenwood neighborhood early Wednesday, damaging buildings and sending nine firefighters to the hospital.",
+          "richtext": "A massive explosion ripped through Seattle's Greenwood neighborhood early Wednesday, damaging buildings and sending nine firefighters to the hospital.",
+          "elements": []
+        }
+      ],
+      "attributes": {
+        "template": "/cnn/global/cfg/common/article.json",
+        "showComments": false,
+        "inews": true,
+        "syndicationServiceUri": "/serviceFacade/channel/cms3",
+        "sms": false,
+        "showAds": "Normal",
+        "content": true,
+        "timestamp": "Update",
+        "email": false,
+        "syndicationTemplate": "/cnn/syndication/cfg/storybuilder/story-builder.json",
+        "branding": "default",
+        "summaries": true,
+        "mobile": true
+      },
+      "body": {
+        "footer": {
+          "type": "Contributors",
+          "text": "CNN's AnneClaire Stapleton, Jackie Castillo and Catherine E. Shoichet contributed to this report.",
+          "paragraphs": [
+            {
+              "id": "0",
+              "plaintext": "CNN's AnneClaire Stapleton, Jackie Castillo and Catherine E. Shoichet contributed to this report.",
+              "richtext": "CNN's AnneClaire Stapleton, Jackie Castillo and Catherine E. Shoichet contributed to this report.",
+              "elements": []
+            }
+          ]
+        },
+        "notes": null,
+        "paragraphs": [
+          {
+            "id": "paragraph_03CB6422-151F-B293-EAE8-5CB16817C1A9",
+            "plaintext": "A natural gas leak may have caused a massive explosion early Wednesday in Seattle's Greenwood neighborhood -- obliterating at least one building, damaging many others and sending nine firefighters to the hospital.",
+            "richtext": "A natural gas leak may have caused a massive explosion early Wednesday in Seattle's Greenwood neighborhood -- obliterating at least one building, damaging many others and sending nine firefighters to the hospital.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_67AEB65E-6BFD-42E0-A67E-5D610D78AEA7",
+            "plaintext": "Seattle Mayor Ed Murray called the blast a \"devastating disaster\" for the business district.",
+            "richtext": "Seattle Mayor Ed Murray called the blast a \"devastating disaster\" for the business district.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_40F9B8C6-64B8-94D7-6003-5D6612FC7D71",
+            "plaintext": "\"It's going to take a lot of work to help these businesses become vibrant and vital again, but we are committed to that as a city,\" he told reporters. ",
+            "richtext": "\"It's going to take a lot of work to help these businesses become vibrant and vital again, but we are committed to that as a city,\" he told reporters. ",
+            "elements": []
+          },
+          {
+            "id": "paragraph_A889BABC-682B-D9C3-D4B9-5B2CC37A7A18",
+            "plaintext": "One battalion chief and eight firefighters were transported to Harborview Medical Center after the incident, said Seattle fire spokeswoman Corey Orvold. These eight men and one woman all had been released as of 8 a.m. (11 a.m. ET), according to the hospital.",
+            "richtext": "One battalion chief and eight firefighters were transported to Harborview Medical Center after the incident, said Seattle fire spokeswoman Corey Orvold. These eight men and one woman all had been released as of 8 a.m. (11 a.m. ET), according to the hospital.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_022665DE-A0B0-32CF-A9A4-5D70A2C4FAE8",
+            "plaintext": "\"Thank God, no one was seriously injured, and hopefully, at least as far as we can tell, no one was killed here,\" Murray said Wednesday afternoon.",
+            "richtext": "\"Thank God, no one was seriously injured, and hopefully, at least as far as we can tell, no one was killed here,\" Murray said Wednesday afternoon.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_9E797B1E-AED7-8E4E-BC62-5CB5A96434AB",
+            "plaintext": "The fire was officially extinguished around 10:30 a.m., according to the Seattle Fire Department, leaving a lot of charred rubble behind.",
+            "richtext": "The fire was officially extinguished around 10:30 a.m., according to the Seattle Fire Department, leaving a lot of charred rubble behind.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_1DED563C-97CE-15A3-A531-5CB69AFADF6D",
+            "plaintext": "About three hours before then, gas had been shut off in and around the explosion site, Puget Sound Energy reported. Utility crews had to drill holes into the pavement to access cutoff valves. ",
+            "richtext": "About three hours before then, gas had been shut off in and around the explosion site, <a href=\"https://twitter.com/PSETalk/status/707605174886338560\" target=\"_blank\">Puget Sound Energy reported</a>. Utility crews had to drill holes into the pavement to access cutoff valves. ",
+            "elements": [
+              {
+                "type": "embed",
+                "attributes": {
+                  "description": "Fire extinguished",
+                  "type": "twitter",
+                  "url": "<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">Firefighters have extinguished the fire at 85th and Greenwood. <a href=\"https://t.co/JHxrdEo4hF\">pic.twitter.com/JHxrdEo4hF</a></p>&mdash; Seattle Fire Dept (@SeattleFire) <a href=\"https://twitter.com/SeattleFire/status/707599603734945792\">March 9, 2016</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>",
+                  "embedStrategy": "legacy"
+                }
+              }
+            ]
+          },
+          {
+            "id": "paragraph_9611B47D-89E0-76E7-9D72-5CB837DA9498",
+            "plaintext": "The long drilling process meant that for about six hours, firefighters had to put water on the fire from the edge of the rubble left by the explosion. Because of still-leaking gas, they couldn't go into the area where the explosion had occurred.",
+            "richtext": "The long drilling process meant that for about six hours, firefighters had to put water on the fire from the edge of the rubble left by the explosion. Because of still-leaking gas, they couldn't go into the area where the explosion had occurred.",
+            "elements": [
+              {
+                "type": "embed",
+                "attributes": {
+                  "description": "Puget Sound Energy",
+                  "type": "twitter",
+                  "url": "<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">Crews working access to the last valve needed for shutoff. <a href=\"https://twitter.com/hashtag/GreenwoodExplosion?src=hash\">#GreenwoodExplosion</a> <a href=\"https://t.co/A6Ljc1jIa0\">pic.twitter.com/A6Ljc1jIa0</a></p>&mdash; Puget Sound Energy (@PSETalk) <a href=\"https://twitter.com/PSETalk/status/707572256126275584\">March 9, 2016</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>",
+                  "embedStrategy": "legacy"
+                }
+              }
+            ]
+          },
+          {
+            "id": "paragraph_40464027-E6E8-71F1-78FF-5D624CC26378",
+            "plaintext": "Investigators are still trying to pinpoint the source of the leak, officials said Wednesday afternoon.",
+            "richtext": "Investigators are still trying to pinpoint the source of the leak, officials said Wednesday afternoon.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_108FF03B-0F9D-6078-868D-5BF9651E4053",
+            "plaintext": "Chief: Firefighters went to examine gas leak",
+            "richtext": "<h3>Chief: Firefighters went to examine gas leak</h3>",
+            "elements": []
+          },
+          {
+            "id": "paragraph_2FFFA3E2-3ACD-4EB1-0169-5BE680C7FA83",
+            "plaintext": "The first set of firefighters rushed to the scene shortly after 1 a.m., after getting a call about a gas leak in Greenwood.",
+            "richtext": "The first set of firefighters rushed to the scene shortly after 1 a.m., after getting a call about a gas leak in Greenwood.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_CB64F8D9-8821-FDBD-8ADB-5BEB5FFD2E0D",
+            "plaintext": "They were there, trying to \"detect and determine where that gas was coming from,\" when the explosion occurred shortly before 1:45 a.m.",
+            "richtext": "They were there, trying to \"detect and determine where that gas was coming from,\" when the explosion occurred shortly before 1:45 a.m.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_D0DE537E-C87E-6A9B-945E-5BEA1D92A074",
+            "plaintext": "\"We know, as firefighters, that this is a very dangerous job, and these things can happen from time to time,\" fire Chief Harold Scoggins said. \"... They did all the things they needed to do to take care of business.\"",
+            "richtext": "\"We know, as firefighters, that this is a very dangerous job, and these things can happen from time to time,\" fire Chief Harold Scoggins said. \"... They did all the things they needed to do to take care of business.\"",
+            "elements": []
+          },
+          {
+            "id": "paragraph_BB12613C-12FB-810F-9083-5BA5880FB303",
+            "plaintext": "The blast destroyed at least one building that included a restaurant and shattered windows as far as two blocks away.",
+            "richtext": "The blast destroyed at least one building that included a restaurant and shattered windows as far as two blocks away.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_D341C1C0-2309-8034-2B53-5B3A878AD057",
+            "plaintext": "Its destructive force was evident in images tweeted by the fire department showing debris stuck in trees and littering the street, as well as the shattered windows of nearby storefronts and restaurants.",
+            "richtext": "Its destructive force was evident in images tweeted by the fire department showing debris stuck in trees and littering the street, as well as the shattered windows of nearby storefronts and restaurants.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_95E8321D-74BC-10C9-0BAB-5B46996C4949",
+            "plaintext": null,
+            "richtext": null,
+            "elements": [
+              {
+                "type": "embed",
+                "attributes": {
+                  "description": "Damage",
+                  "type": "twitter",
+                  "url": "<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">Some of the damage from the explosion. <a href=\"https://t.co/BXmzDshnr7\">pic.twitter.com/BXmzDshnr7</a></p>&mdash; Seattle Fire Dept (@SeattleFire) <a href=\"https://twitter.com/SeattleFire/status/707517898785316864\">March 9, 2016</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>",
+                  "embedStrategy": "legacy"
+                }
+              }
+            ]
+          },
+          {
+            "id": "paragraph_BA8B143E-3A78-FCD0-7A89-5BF8D7ACFE27",
+            "plaintext": "Witness: 'Debris just coming down from the sky'",
+            "richtext": "<h3>Witness: 'Debris just coming down from the sky'</h3>",
+            "elements": []
+          },
+          {
+            "id": "paragraph_51319922-D6DB-7C19-7E89-5BF88DF92CE1",
+            "plaintext": "Authorities haven't indicated any people were in the buildings hit hardest by the blast, with Orvold saying one or more dogs were on-site to help canvass the rubble. ",
+            "richtext": "Authorities haven't indicated any people were in the buildings hit hardest by the blast, with Orvold saying one or more dogs were on-site to help canvass the rubble. ",
+            "elements": []
+          },
+          {
+            "id": "paragraph_073F81BF-1805-3B01-A5A8-5BEFB2FBA16E",
+            "plaintext": "Likewise, there was no suggestion that civilians nearby had been injured.",
+            "richtext": "Likewise, there was no suggestion that civilians nearby had been injured.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_96B40ECB-65DE-4351-6A64-5BF28DE7C386",
+            "plaintext": "They were rattled, though, with witnesses telling CNN affiliate KCPQ about bars in the vicinity shaking, damaged cars and shattered glass most everywhere in sight.",
+            "richtext": "They were rattled, though, with witnesses telling <a href=\"http://q13fox.com/2016/03/09/9-firefighters-injured-after-explosion-in-seattles-greenwood-neighborhood/\" target=\"_blank\">CNN affiliate KCPQ</a> about bars in the vicinity shaking, damaged cars and shattered glass most everywhere in sight.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_BF784F26-054B-2E2B-316F-5BF422F12400",
+            "plaintext": "\"The whole building, it just exploded,\" said Bryan Howard, a KCPQ photojournalist who had arrived on the scene a minute or so earlier. \"I took off running but when I turned back around, there was debris just coming down from the sky. ... I remember ... a giant fireball going up into the air.\"",
+            "richtext": "\"The whole building, it just exploded,\" said Bryan Howard, a KCPQ photojournalist who had arrived on the scene a minute or so earlier. \"I took off running but when I turned back around, there was debris just coming down from the sky. ... I remember ... a giant fireball going up into the air.\"",
+            "elements": []
+          },
+          {
+            "id": "paragraph_E0E3473C-941B-EED7-249B-5BA95CA81552",
+            "plaintext": "Public buses shuttled people from multiple buildings, at least one of which included apartments, which were evacuated after the explosion, Orvold said. In the meantime, investigators converged on the site to determine the cause.",
+            "richtext": "Public buses shuttled people from multiple buildings, at least one of which included apartments, which were evacuated after the explosion, Orvold said. In the meantime, investigators converged on the site to determine the cause.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_D80C388B-76EA-271B-9ECA-5BA846AFF0FD",
+            "plaintext": "Just over six months ago, a gas leak caused a blast that injured one and brought down part of a Motel 6 in Bremerton, Washington, just across Puget Sound from Wednesday morning's blast.",
+            "richtext": "Just over six months ago, a gas leak caused <a href=\"http://www.cnn.com/2015/08/19/us/washington-hotel-explosion/\">a blast that injured one and brought down part of a Motel 6</a> in Bremerton, Washington, just across Puget Sound from Wednesday morning's blast.",
+            "elements": []
+          }
+        ],
+        "wordCount": 602
+      },
+      "source": "CNN",
+      "byline": "By Greg Botelho, CNN",
+      "branding": "default",
+      "storyType": "Story",
+      "section": "us",
+      "location": null,
+      "highlights": [
+        {
+          "id": "0",
+          "plaintext": "NEW: Seattle Mayor Ed Murray calls the blast a \"devastating disaster\"",
+          "richtext": "NEW: Seattle Mayor Ed Murray calls the blast a \"devastating disaster\"",
+          "elements": []
+        },
+        {
+          "id": "1",
+          "plaintext": "The early Wednesday blast in Seattle's Greenwood neighborhood shatters glass two blocks away",
+          "richtext": "The early Wednesday blast in Seattle's Greenwood neighborhood shatters glass two blocks away",
+          "elements": []
+        },
+        {
+          "id": "2",
+          "plaintext": "All 9 firefighters sent to Harborview Medical Center have been released, the Seattle hospital says",
+          "richtext": "All 9 firefighters sent to Harborview Medical Center have been released, the Seattle hospital says",
+          "elements": []
+        }
+      ],
+      "partner": null,
+      "smsbody": "A natural gas leak may have caused a massive explosion early Wednesday in Seattle's Greenwood neighborhood -- obliterating at least one b",
+      "contributors": [
+        {
+          "firstName": "Greg",
+          "middleName": null,
+          "lastName": "Botelho",
+          "fullName": "Greg Botelho"
+        }
+      ],
+      "topics": [
+        {
+          "label": "Accidents, disasters and safety",
+          "class": "Subject",
+          "id": "f16b72d7-1fcb-5ab1-9804-ad08747d40b9",
+          "topicID": "89S",
+          "confidenceScore": 0.7,
+          "leafNode": false
+        },
+        {
+          "label": "Careers and workplaces",
+          "class": "Subject",
+          "id": "5a28e968-c756-5767-9284-e39252a0517d",
+          "topicID": "7X0",
+          "confidenceScore": 0.73,
+          "leafNode": false
+        },
+        {
+          "label": "Explosions",
+          "class": "Subject",
+          "id": "5f9348c7-e1c7-45ac-907a-122ddd150950",
+          "topicID": "J63",
+          "confidenceScore": 0.7,
+          "leafNode": true
+        },
+        {
+          "label": "Firefighters and firefighting",
+          "class": "Subject",
+          "id": "acc66cff-9140-5476-bf48-30f55257ed36",
+          "topicID": "8P7",
+          "confidenceScore": 0.73,
+          "leafNode": true
+        },
+        {
+          "label": "North America",
+          "class": "Place",
+          "id": "ba149945-03c8-4584-83c3-13dd4e4b89cd",
+          "topicID": "BLL",
+          "confidenceScore": 0.73,
+          "leafNode": false
+        },
+        {
+          "label": "Northwestern United States",
+          "class": "Place",
+          "id": "2d1a11f7-4ca5-4c25-9303-e37b9bf4034a",
+          "topicID": "BGT",
+          "confidenceScore": 0.73,
+          "leafNode": false
+        },
+        {
+          "label": "Seattle",
+          "class": "Place",
+          "id": "fdc44647-decb-4499-9122-9b43c986801a",
+          "topicID": "BHP",
+          "confidenceScore": 0.73,
+          "leafNode": true
+        },
+        {
+          "label": "United States",
+          "class": "Place",
+          "id": "7bacc4f5-0758-4abd-a57e-c3633bd0f1aa",
+          "topicID": "BLX",
+          "confidenceScore": 0.73,
+          "leafNode": false
+        },
+        {
+          "label": "Washington (State)",
+          "class": "Place",
+          "id": "20ba73d7-1d65-4021-9b18-b3a23fc88a50",
+          "topicID": "BHR",
+          "confidenceScore": 0.73,
+          "leafNode": false
+        },
+        {
+          "label": "Workers and professionals",
+          "class": "Subject",
+          "id": "e27dc7eb-49b4-5c09-b9b6-336313bf63a2",
+          "topicID": "9KQ",
+          "confidenceScore": 0.73,
+          "leafNode": false
+        },
+        {
+          "label": "Accidents",
+          "class": "Subject",
+          "id": "0f29db09-cd1d-545e-8173-242ec83e2af4",
+          "topicID": "8FK",
+          "confidenceScore": 0.53,
+          "leafNode": false
+        },
+        {
+          "label": "Gas leaks",
+          "class": "Subject",
+          "id": "12ff9f94-0266-4a88-bc96-d9b354e2e810",
+          "topicID": "3X4",
+          "confidenceScore": 0.53,
+          "leafNode": true
+        },
+        {
+          "label": "Business and industry sectors",
+          "class": "Subject",
+          "id": "4ccf7de0-5c99-5e8e-95dd-54ef32c131a0",
+          "topicID": "80N",
+          "confidenceScore": 0.68,
+          "leafNode": false
+        },
+        {
+          "label": "Fires",
+          "class": "Subject",
+          "id": "ff3c3e47-d263-53f6-a4b9-a468d08b5d51",
+          "topicID": "88F",
+          "confidenceScore": 0.6,
+          "leafNode": false
+        },
+        {
+          "label": "Health and medical",
+          "class": "Subject",
+          "id": "518c0efc-3d88-5b83-8cdc-cd83e54220b4",
+          "topicID": "4HR",
+          "confidenceScore": 0.68,
+          "leafNode": false
+        },
+        {
+          "label": "Health care",
+          "class": "Subject",
+          "id": "181bc524-4d9c-5484-aee3-b22bf19806e7",
+          "topicID": "8B8",
+          "confidenceScore": 0.68,
+          "leafNode": false
+        },
+        {
+          "label": "Health care facilities",
+          "class": "Subject",
+          "id": "3ed661fd-89b4-411a-bf73-1369005fd14f",
+          "topicID": "7CC",
+          "confidenceScore": 0.68,
+          "leafNode": false
+        },
+        {
+          "label": "Hospitals",
+          "class": "Subject",
+          "id": "fed120bc-489f-5486-b8a4-817c3b738d2f",
+          "topicID": "8TM",
+          "confidenceScore": 0.68,
+          "leafNode": false
+        }
+      ],
+      "relatedMedia": {
+        "hasImage": true,
+        "hasGallery": false,
+        "hasVideo": true,
+        "hasVideoCollection": false,
+        "hasInteractive": false,
+        "media": [
+          {
+            "id": "h_6801f29e943bb072d9729e09795257d2",
+            "referenceId": "h_6801f29e943bb072d9729e09795257d2",
+            "type": "reference",
+            "location": "pageTop",
+            "headline": "Explosion rips through Seattle building",
+            "description": [],
+            "url": "http://www.cnn.com/videos/us/2016/03/09/seattle-explosion-destroys-building-orig-vstop.cnn",
+            "cvpXmlUrl": "http://www.cnn.com/video/data/3.0/video/us/2016/03/09/seattle-explosion-destroys-building-orig-vstop.cnn/index.xml",
+            "autoplay": true,
+            "duration": null,
+            "referenceType": "video",
+            "referenceUrl": "http://ref.hypatia.services.dmtio.net/svc/content/v2/search/collection1/id:h_6801f29e943bb072d9729e09795257d2",
+            "referenceUri": "/svc/content/v2/search/collection1/id:h_6801f29e943bb072d9729e09795257d2",
+            "cuts": {
+              "small4to3": {
+                "height": 186,
+                "width": 248,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160309105409-seattle-explosion-assign.jpg"
+              },
+              "medium4to3": {
+                "height": 186,
+                "width": 248,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160309105409-seattle-explosion-assign.jpg"
+              },
+              "large16to9": {
+                "height": 324,
+                "width": 576,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160309105409-seattle-explosion-live-video.jpg"
+              },
+              "medium3to4": {
+                "height": 360,
+                "width": 270,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160309105409-seattle-explosion-vertical-gallery.jpg"
+              },
+              "large4to3": {
+                "height": 480,
+                "width": 640,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160309105409-seattle-explosion-video-synd-2.jpg"
+              },
+              "small16to9": {
+                "height": 144,
+                "width": 256,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160309105409-seattle-explosion-hp-video.jpg"
+              },
+              "iPhoneTease": {
+                "height": 49,
+                "width": 87,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160309105409-seattle-explosion-iphone-tease.jpg"
+              },
+              "exlarge16to9": {
+                "height": 619,
+                "width": 1100,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160309105409-seattle-explosion-super-169.jpg"
+              },
+              "t1Panoramic": {
+                "height": 250,
+                "width": 670,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160309105409-seattle-explosion-t1-panoramic.jpg"
+              },
+              "storyTablet": {
+                "height": 432,
+                "width": 768,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160309105409-seattle-explosion-story-tablet.jpg"
+              },
+              "storyTop": {
+                "height": 360,
+                "width": 640,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160309105409-seattle-explosion-story-top.jpg"
+              },
+              "large1to1": {
+                "height": 300,
+                "width": 300,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160309105409-seattle-explosion-large-11.jpg"
+              },
+              "topTease": {
+                "height": 51,
+                "width": 90,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160309105409-seattle-explosion-top-tease.jpg"
+              },
+              "small1to1": {
+                "height": 250,
+                "width": 250,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160309105409-seattle-explosion-t1-main.jpg"
+              },
+              "t1Main": {
+                "height": 250,
+                "width": 250,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160309105409-seattle-explosion-t1-main.jpg"
+              },
+              "medium1to1": {
+                "height": 250,
+                "width": 250,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160309105409-seattle-explosion-t1-main.jpg"
+              },
+              "c1Main": {
+                "height": 234,
+                "width": 416,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160309105409-seattle-explosion-c1-main.jpg"
+              },
+              "phoneGallery": {
+                "height": 320,
+                "width": 480,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160309105409-seattle-explosion-phone-gallery.jpg"
+              },
+              "smallVideo": {
+                "height": 180,
+                "width": 320,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160309105409-seattle-explosion-small-video.jpg"
+              },
+              "storyBody": {
+                "height": 169,
+                "width": 300,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160309105409-seattle-explosion-story-body.jpg"
+              },
+              "medium16to9": {
+                "height": 169,
+                "width": 300,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160309105409-seattle-explosion-story-body.jpg"
+              },
+              "t1iPhone": {
+                "height": 254,
+                "width": 320,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160309105409-seattle-explosion-t1-iphone.jpg"
+              },
+              "large3to4": {
+                "height": 552,
+                "width": 414,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160309105409-seattle-explosion-vertical-large-gallery.jpg"
+              }
+            },
+            "auxiliaryText": null
+          },
+          {
+            "id": "h_21f0734fa86291b321c99c5b4d46663a",
+            "imageId": "h_21f0734fa86291b321c99c5b4d46663a",
+            "type": "image",
+            "referenceUrl": "http://ref.hypatia.services.dmtio.net/svc/content/v2/search/collection1/id:h_21f0734fa86291b321c99c5b4d46663a",
+            "referenceUri": "/svc/content/v2/search/collection1/id:h_21f0734fa86291b321c99c5b4d46663a",
+            "location": "tease",
+            "slug": "02 seattle fire 0309",
+            "dam_id": "160309064818-02-seattle-fire-0309",
+            "photographer": "Seattle Fire Dept.",
+            "caption": "(KCPQ) A building exploded around 1:40 a.m. Wednesday morning near 85th and Greenwood.\n\nA Q13 Fox News photographer was on scene checking out a possible gas leak when the building exploded. He described the aftermath of the explosion as a war zone and said glass was raining down. Fortunately, our photographer is OK.\n\nSeattle Fire said at least nine firefighters were taken to the hospital. Evacuations in the neighborhood were underway.\n\nThis story is developing and will be updated throughout the morning as we learn more.",
+            "cuts": {
+              "small4to3": {
+                "height": 186,
+                "width": 248,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160309064818-02-seattle-fire-0309-assign.jpg"
+              },
+              "medium4to3": {
+                "height": 186,
+                "width": 248,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160309064818-02-seattle-fire-0309-assign.jpg"
+              },
+              "large16to9": {
+                "height": 324,
+                "width": 576,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160309064818-02-seattle-fire-0309-live-video.jpg"
+              },
+              "medium3to4": {
+                "height": 360,
+                "width": 270,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160309064818-02-seattle-fire-0309-vertical-gallery.jpg"
+              },
+              "large4to3": {
+                "height": 480,
+                "width": 640,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160309064818-02-seattle-fire-0309-video-synd-2.jpg"
+              },
+              "small16to9": {
+                "height": 144,
+                "width": 256,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160309064818-02-seattle-fire-0309-hp-video.jpg"
+              },
+              "iPhoneTease": {
+                "height": 49,
+                "width": 87,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160309064818-02-seattle-fire-0309-iphone-tease.jpg"
+              },
+              "exlarge16to9": {
+                "height": 619,
+                "width": 1100,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160309064818-02-seattle-fire-0309-super-169.jpg"
+              },
+              "t1Panoramic": {
+                "height": 250,
+                "width": 670,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160309064818-02-seattle-fire-0309-t1-panoramic.jpg"
+              },
+              "storyTablet": {
+                "height": 432,
+                "width": 768,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160309064818-02-seattle-fire-0309-story-tablet.jpg"
+              },
+              "storyTop": {
+                "height": 360,
+                "width": 640,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160309064818-02-seattle-fire-0309-story-top.jpg"
+              },
+              "large1to1": {
+                "height": 300,
+                "width": 300,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160309064818-02-seattle-fire-0309-large-11.jpg"
+              },
+              "topTease": {
+                "height": 51,
+                "width": 90,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160309064818-02-seattle-fire-0309-top-tease.jpg"
+              },
+              "small1to1": {
+                "height": 250,
+                "width": 250,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160309064818-02-seattle-fire-0309-t1-main.jpg"
+              },
+              "t1Main": {
+                "height": 250,
+                "width": 250,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160309064818-02-seattle-fire-0309-t1-main.jpg"
+              },
+              "medium1to1": {
+                "height": 250,
+                "width": 250,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160309064818-02-seattle-fire-0309-t1-main.jpg"
+              },
+              "c1Main": {
+                "height": 234,
+                "width": 416,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160309064818-02-seattle-fire-0309-c1-main.jpg"
+              },
+              "phoneGallery": {
+                "height": 320,
+                "width": 480,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160309064818-02-seattle-fire-0309-phone-gallery.jpg"
+              },
+              "smallVideo": {
+                "height": 180,
+                "width": 320,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160309064818-02-seattle-fire-0309-small-video.jpg"
+              },
+              "storyBody": {
+                "height": 169,
+                "width": 300,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160309064818-02-seattle-fire-0309-story-body.jpg"
+              },
+              "medium16to9": {
+                "height": 169,
+                "width": 300,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160309064818-02-seattle-fire-0309-story-body.jpg"
+              },
+              "t1iPhone": {
+                "height": 254,
+                "width": 320,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160309064818-02-seattle-fire-0309-t1-iphone.jpg"
+              },
+              "large3to4": {
+                "height": 552,
+                "width": 414,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160309064818-02-seattle-fire-0309-vertical-large-gallery.jpg"
+              }
+            }
+          }
+        ],
+        "autoZone": {
+          "auto": false
+        }
+      },
+      "parent": {
+        "id": null
+      },
+      "language": "en"
+    }
+  ]
+}

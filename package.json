@@ -1,0 +1,32 @@
+{
+  "name": "test",
+  "version": "0.0.0",
+  "description": "just a test for fbia prototype",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node  index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zoitec/fbia-promo.git"
+  },
+  "keywords": [
+    "test",
+    "node",
+    "package"
+  ],
+  "author": "Sean Joseph",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/zoitec/fbia-promo/issues"
+  },
+  "dependencies": {
+    "hapi": "^13.2.1",
+    "rss": "^1.2.1",
+    "xmlbuilder": "^5.0.1"
+  },
+  "engines": {
+    "node": "5.6.0"
+  }
+}
