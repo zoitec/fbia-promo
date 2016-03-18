@@ -1309,6 +1309,1594 @@
         "id": null
       },
       "language": "en"
+    },
+    {
+      "id": "h_b1ecc2fce3e3e71cdf75fbb3ca0b4ec4",
+      "sourceId": "article_0A731421-7938-C3A3-D927-7B53BB94B6CE",
+      "type": "article",
+      "dataSource": "cnn",
+      "schema": "/svc/content/v2/schema/article.schema.json",
+      "schemaVersion": 2,
+      "status": {
+        "state": "published"
+      },
+      "firstPublishDate": "2016-03-16T16:17:20Z",
+      "lastPublishDate": "2016-03-16T16:17:20Z",
+      "lastModifiedDate": "2016-03-16T16:17:19Z",
+      "slug": "millennials foreign policy views thrall",
+      "url": "http://www.cnn.com/2016/03/16/opinions/millennials-foreign-policy-views-thrall/index.html",
+      "headline": "Millennials not scared of outside world",
+      "title": "Millennials' much-needed optimism",
+      "mobileHeadline": "Opinion: Millennials not scared of outside world",
+      "socialHeadline": "Opinion: Millennials not scared of outside world",
+      "description": [
+        {
+          "id": "0",
+          "plaintext": "For those who believe the threats facing U.S. are limited, millennials' views represent a sense of optimism sadly lacking in Washington, writes Trevor Thrall.",
+          "richtext": "For those who believe the threats facing U.S. are limited, millennials' views represent a sense of optimism sadly lacking in Washington, writes Trevor Thrall.",
+          "elements": []
+        }
+      ],
+      "attributes": {
+        "template": "/cnn/global/cfg/common/article.json",
+        "showComments": false,
+        "inews": false,
+        "syndicationServiceUri": "/serviceFacade/channel/cms3",
+        "showAds": "Normal",
+        "sms": false,
+        "content": true,
+        "timestamp": "Update",
+        "email": false,
+        "syndicationTemplate": "/cnn/syndication/cfg/storybuilder/story-builder.json",
+        "branding": "default",
+        "summaries": true,
+        "mobile": false
+      },
+      "body": {
+        "footer": null,
+        "notes": {
+          "www": "Trevor Thrall is a senior fellow for the Cato Institute's Defense and Foreign Policy Department and an associate professor at George Mason University's School of Policy, Government and International Affairs. The views expressed are his own.",
+          "intl": "Trevor Thrall is a senior fellow for the Cato Institute's Defense and Foreign Policy Department and an associate professor at George Mason University's School of Policy, Government and International Affairs. The views expressed are his own.",
+          "wwwText": [
+            {
+              "id": "0",
+              "plaintext": "Trevor Thrall is a senior fellow for the Cato Institute's Defense and Foreign Policy Department and an associate professor at George Mason University's School of Policy, Government and International Affairs. The views expressed are his own.",
+              "richtext": "Trevor Thrall is a senior fellow for the Cato Institute's Defense and Foreign Policy Department and an associate professor at George Mason University's School of Policy, Government and International Affairs. The views expressed are his own.",
+              "elements": []
+            }
+          ],
+          "intlText": [
+            {
+              "id": "0",
+              "plaintext": "Trevor Thrall is a senior fellow for the Cato Institute's Defense and Foreign Policy Department and an associate professor at George Mason University's School of Policy, Government and International Affairs. The views expressed are his own.",
+              "richtext": "Trevor Thrall is a senior fellow for the Cato Institute's Defense and Foreign Policy Department and an associate professor at George Mason University's School of Policy, Government and International Affairs. The views expressed are his own.",
+              "elements": []
+            }
+          ],
+          "type": "Editor's Note"
+        },
+        "paragraphs": [
+          {
+            "id": "paragraph_2C9FF6A1-7BAD-4A17-C425-7B53BBAE78C0",
+            "plaintext": "Over the course of the 2016 campaign, there's been an awful lot of talk about how terrible and dangerous the rest of the world is. Listening to Donald Trump and company you can easily imagine the world consists of nothing but terrorists, free-riding allies, trade cheats and currency manipulating superpowers.",
+            "richtext": "Over the course of the 2016 campaign, there's been an awful lot of talk about how terrible and dangerous the rest of the world is. Listening to Donald Trump and company you can easily imagine the world consists of nothing but terrorists, free-riding allies, trade cheats and currency manipulating superpowers.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_4C01A8CF-54AD-BEAD-85A2-7B5CAB71DAD7",
+            "plaintext": "Given the overheated rhetoric, it's not hard to see why a surprising number of Americans are supportive of a wide range of nationalist and xenophobic proposals, from banning Muslims from entering the country (supported by 33%) or keeping track of Muslims in a database (supported by 44%), to building a wall on the Mexican border (supported by 46%). But one very important group of Americans does not share these views. In fact, the millennial generation (ranging from 18-35 years old), embraces a much rosier view of the rest of the world. As America's largest generation, millennials stand poised to make their views heard this November.",
+            "richtext": "Given the overheated rhetoric, it's not hard to see why a surprising number of Americans are supportive of a wide range of nationalist and xenophobic proposals, from banning Muslims from entering the country (<a href=\"http://www.pollingreport.com/terror.htm\" target=\"_blank\">supported by 33%</a>) or keeping track of Muslims in a database (<a href=\"http://www.pollingreport.com/terror.htm\" target=\"_blank\">supported by 44%</a>), to building a wall on the Mexican border (<a href=\"http://www.people-press.org/2015/10/08/on-immigration-policy-wider-partisan-divide-over-border-fence-than-path-to-legal-status/\" target=\"_blank\">supported by 46%</a>). But one very important group of Americans does not share these views. In fact, the millennial generation (ranging from 18-35 years old), embraces a much rosier view of the rest of the world. As America's largest generation, millennials stand poised to make their views heard this November.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_B3B09416-9175-AD5C-A38E-7B5CAB74D410",
+            "plaintext": "Let's start with foreign threats. The campaign has been full of dire warnings about everything from terrorists posing as refugees to the resurgence of Russian aggression. But even though the world looks like it's on fire to the candidates and older Americans, millennials take a much more relaxed view when it comes to threat perceptions.",
+            "richtext": "Let's start with foreign threats. The campaign has been full of dire warnings about everything from terrorists posing as refugees to the resurgence of Russian aggression. But even though the world looks like it's on fire to the candidates and older Americans, millennials take a <a href=\"http://www.cato.org/publications/white-paper/millennials-us-foreign-policy-next-generations-attitudes-toward-foreign\" target=\"_blank\">much more relaxed view</a> when it comes to threat perceptions.",
+            "elements": [
+              {
+                "type": "handle",
+                "attributes": {
+                  "appearance": "standard",
+                  "description": "Thrall, Trevor head shot",
+                  "caption": "Trevor Thrall",
+                  "targetLinkUri": "",
+                  "targetLinkType": "",
+                  "targetLinkOid": null
+                },
+                "target": {
+                  "type": "image",
+                  "subtype": null,
+                  "referenceUrl": "http://ref.hypatia.services.dmtio.net/svc/content/v2/search/collection1/id:h_072fa88c3c5777b458429bd1840753ed",
+                  "referenceUri": "/svc/content/v2/search/collection1/id:h_072fa88c3c5777b458429bd1840753ed"
+                }
+              }
+            ]
+          },
+          {
+            "id": "paragraph_B4C14058-5009-62D8-6ED0-7B5CAB7692E8",
+            "plaintext": "On Iran, for example, just 27% of millennials see Iran as a \"very serious threat\" to U.S. security, compared to 60% of older Americans. As a result, millennials have been the most supportive of Obama's nuclear deal with Iran. Younger Americans are also less worried about China, whose rapid rise and recent actions in the South China Sea have prompted a great deal of hand wringing in Washington. A recent Pew poll found that 55% of Americans under 30 have a favorable view of China compared to just 27% of those over 50.",
+            "richtext": "On Iran, for example, just <a href=\"http://www.documentcloud.org/documents/2412921-obama-iran-conducted-september-4-8-2015.html\" target=\"_blank\">27% of millennials</a> see Iran as a \"very serious threat\" to U.S. security, compared to 60% of older Americans. As a result, millennials have been the <a href=\"http://i2.cdn.turner.com/cnn/2015/images/09/12/iranpoll.pdf\" target=\"_blank\">most supportive</a> of Obama's nuclear deal with Iran. Younger Americans are also less worried about China, whose rapid rise and recent actions in the South China Sea have prompted a great deal of hand wringing in Washington. A recent Pew poll <a href=\"http://www.pewresearch.org/fact-tank/2015/09/22/6-facts-about-how-americans-and-chinese-see-each-other/\" target=\"_blank\">found that 55% of Americans under 30</a> have a favorable view of China compared to just 27% of those over 50.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_655A6112-A3F3-59CE-C27B-7B5CAB788020",
+            "plaintext": "Even terrorism doesn't prompt as much hand wringing among young people. Year after year the Chicago Council on Global Affairs polling has found that millennials are less likely to see terrorism as a critical threat to U.S. national security, while other polls have consistently shown that millennials are the least supportive of sending U.S. ground troops to the Middle East to fight them.",
+            "richtext": "Even terrorism doesn't prompt as much hand wringing among young people. Year after year the <a href=\"http://www.thechicagocouncil.org/publication/america-divided-political-partisanship-and-us-foreign-policy\" target=\"_blank\">Chicago Council on Global Affairs polling</a> has found that millennials are less likely to see terrorism as a critical threat to U.S. national security, while <a href=\"http://www.people-press.org/2015/02/24/growing-support-for-campaign-against-isis-and-possible-use-of-u-s-ground-troops/\" target=\"_blank\">other polls have consistently shown</a> that millennials are the least supportive of sending U.S. ground troops to the Middle East to fight them.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_A437D52B-8FBC-6DEB-3FE7-7B5CAB7AF7BC",
+            "plaintext": "When it comes to foreign trade millennials also have a more optimistic approach to engaging the world. During the campaign, both Democratic candidates have come out in opposition to the Trans-Pacific Partnership, as have most of the Republican candidates. Trump has taken his opposition to free trade the furthest, calling for the imposition of massive tariffs on Chinese goods in response to what he sees as unfair trade practices.",
+            "richtext": "When it comes to foreign trade millennials also have a more optimistic approach to engaging the world. <a href=\"https://ballotpedia.org/2016_presidential_candidates_on_the_Trans-Pacific_Partnership_trade_deal\" target=\"_blank\">During the campaign</a>, both Democratic candidates have come out in opposition to the Trans-Pacific Partnership, as have most of the Republican candidates. Trump has taken his opposition to free trade the furthest, calling for the imposition of massive tariffs on Chinese goods in response to what he sees as unfair trade practices.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_2D2E5B21-0B4B-7BDA-F28F-7B5CAB7C8497",
+            "plaintext": "Despite the attacks, a recent Gallup Poll reveals that 58% of Americans support free trade. The full story, though, is that there is an almost 20 point gap in support for trade between younger and older Americans. In fact, millennials are the only generation in which an overwhelming majority believes foreign trade represents an economic opportunity rather than a threat to the economy.",
+            "richtext": "Despite the attacks, a recent <a href=\"http://www.gallup.com/poll/189620/americans-remain-upbeat-foreign-trade.aspx\" target=\"_blank\">Gallup Poll</a> reveals that 58% of Americans support free trade. The full story, though, is that there is an almost 20 point gap in support for trade between younger and older Americans. In fact, millennials are the only generation in which an overwhelming majority believes foreign trade represents an economic opportunity rather than a threat to the economy.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_5CB769A8-6F8F-4457-0B1F-7B5CAB7FF3A6",
+            "plaintext": "Finally, what about immigration: one of Trump's favorite issues and the source of the harshest attacks in the most recent Democratic debate? So far we've heard a lot of negatives about immigrants, along with a lot of tough talk about building walls and deporting people who are here illegally. Many older Americans like these proposals. Younger Americans, on the other hand, who are the nation's most racially and ethnically diverse generation, don't like them nearly as much.",
+            "richtext": "Finally, what about immigration: one of Trump's <a href=\"https://www.donaldjtrump.com/positions/immigration-reform\" target=\"_blank\">favorite issues</a> and the source of the harshest attacks in the most <a href=\"http://www.nytimes.com/2016/03/11/us/politics/democratic-debate-highlights.html?rref=collection%2Fnewseventcollection%2FPresidential%20Election%202016&action=click&contentCollection=Politics&module=Collection&region=Marginalia&src=me&version=newsevent&pgtype=article\" target=\"_blank\">recent Democratic debate</a>? So far we've heard a lot of negatives about immigrants, along with a lot of tough talk about building walls and deporting people who are here illegally. Many older Americans like these proposals. Younger Americans, on the other hand, who are the nation's most racially and ethnically diverse generation, don't like them nearly as much.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_84C574E9-7713-F171-7822-7B5CAB81C1C7",
+            "plaintext": "In fact, when it comes to immigrants and refugees, millennials are the most welcoming generation. With respect to building a wall, millennials are at odds with their elders: just 37% of millennials favor building a wall along the border compared to 58% of Americans over 50. The fact that 11% of millennials are themselves the children of immigrants probably helps explain their more positive attitudes toward immigration. A 2015 Pew Research Center poll shows that 54% of Americans 18-29 years old think immigrants are making American society better in the long run, compared to just 44% of older Americans. And a 2014 Gallup Poll revealed that 68% of millennials think immigration should remain at present levels or increase, compared to 56% of older Americans.",
+            "richtext": "In fact, when it comes to immigrants and refugees, millennials are the most welcoming generation. With <a href=\"http://www.cnn.com/2015/09/14/politics/immigration-guns-poll-cnn-orc-full-results/index.html\">respect to building a wall</a>, millennials are at odds with their elders: just 37% of millennials favor building a wall along the border compared to 58% of Americans over 50. The fact that 11% of millennials are themselves the children of immigrants probably helps explain their more positive attitudes toward immigration. A <a href=\"http://www.pewhispanic.org/2015/09/28/chapter-4-u-s-public-has-mixed-views-of-immigrants-and-immigration\" target=\"_blank\">2015 Pew Research Center poll</a> shows that 54% of Americans 18-29 years old think immigrants are making American society better in the long run, compared to just 44% of older Americans. And a 2014 Gallup Poll revealed that 68% of millennials think immigration should remain at present levels or increase, compared to 56% of older Americans.",
+            "elements": [
+              {
+                "type": "handle",
+                "attributes": {
+                  "appearance": "standard",
+                  "description": "Opinion millennial roundup on 2016 election",
+                  "caption": "Millennials: What they want from the candidates",
+                  "imageOid": "image_C03FD29D-4FFF-EAC7-62FC-499BD3856451"
+                },
+                "target": {
+                  "type": "article",
+                  "subtype": null,
+                  "referenceUrl": "http://ref.hypatia.services.dmtio.net/svc/content/v2/search/collection1/id:h_250a346627d441a413c845bdd09e719d",
+                  "referenceUri": "/svc/content/v2/search/collection1/id:h_250a346627d441a413c845bdd09e719d"
+                }
+              }
+            ]
+          },
+          {
+            "id": "paragraph_38D5DE0F-5961-65AE-FF38-7B5CAB8382FA",
+            "plaintext": "Poll numbers aside, it's clear that this year's remaining presidential hopefuls -- whose average age is 57 for Republicans and a whopping 73 for Democrats -- are talking about the rest of the world in ways that sound off to the average millennial ear.",
+            "richtext": "Poll numbers aside, it's clear that this year's remaining presidential hopefuls -- whose average age is 57 for Republicans and a whopping 73 for Democrats -- are talking about the rest of the world in ways that sound off to the average millennial ear.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_52198A02-5965-E81B-71DB-7B5CAB86F359",
+            "plaintext": "For those who view the world as a terrifying place with dangers lurking around every corner, the millennial generation's attitudes are either naïve or irresponsible. But for those who believe the world outside is not quite so bad and that the threats facing the United States are limited, millennials' views represent a sense of optimism sadly lacking in Washington and on the campaign trail.",
+            "richtext": "For those who view the world as a terrifying place with dangers lurking around every corner, the millennial generation's attitudes are either naïve or irresponsible. But for those who believe the world outside is not quite so bad and that the threats facing the United States are limited, millennials' views represent a sense of optimism sadly lacking in Washington and on the campaign trail.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_0D6648EA-94ED-245C-9038-7B5CAB883A31",
+            "plaintext": "Either way, America's largest generation will bring a unique perspective to the ballot box this November.",
+            "richtext": "Either way, America's largest generation will bring a unique perspective to the ballot box this November.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_C650325E-7D1A-67F9-0132-7B62472BA389",
+            "plaintext": null,
+            "richtext": null,
+            "elements": []
+          },
+          {
+            "id": "paragraph_6BCAEAAD-9A9E-EC22-2651-7B62487BFAC6",
+            "plaintext": "Join us on Facebook.com/CNNOpinion.\nRead CNNOpinion's Flipboard magazine.",
+            "richtext": "Join us on Facebook.com/CNNOpinion.\nRead CNNOpinion's Flipboard magazine.",
+            "elements": [
+              {
+                "type": "handle",
+                "attributes": {
+                  "appearance": "standard",
+                  "description": "follow @CNNOpinion",
+                  "caption": "",
+                  "imageOid": null
+                },
+                "target": {
+                  "type": "interactive",
+                  "subtype": "webtag",
+                  "referenceUrl": null,
+                  "referenceUri": null
+                }
+              }
+            ]
+          },
+          {
+            "id": "paragraph_082738A1-A6BC-5F30-3F3E-7B5CAB8B8C5D",
+            "plaintext": null,
+            "richtext": null,
+            "elements": []
+          }
+        ],
+        "wordCount": 854
+      },
+      "source": "CNN",
+      "byline": "By Trevor Thrall",
+      "branding": "default",
+      "storyType": "Story",
+      "section": "opinions",
+      "location": null,
+      "highlights": [
+        {
+          "id": "0",
+          "plaintext": "Trevor Thrall : 2016 campaign has seen much talk about how dangerous the rest of the world is",
+          "richtext": "Trevor Thrall : 2016 campaign has seen much talk about how dangerous the rest of the world is",
+          "elements": []
+        },
+        {
+          "id": "1",
+          "plaintext": "But millennials' views represent a sense of optimism sadly lacking in Washington, he says",
+          "richtext": "But millennials' views represent a sense of optimism sadly lacking in Washington, he says",
+          "elements": []
+        }
+      ],
+      "partner": null,
+      "smsbody": "Over the course of the 2016 campaign, there's been an awful lot of talk about how terrible and dangerous the rest of the world is. Listen",
+      "contributors": [
+        {
+          "firstName": "Trevor",
+          "middleName": null,
+          "lastName": "Thrall",
+          "fullName": "Trevor Thrall"
+        }
+      ],
+      "topics": [
+        {
+          "label": "Business, economy and trade",
+          "class": "Subject",
+          "id": "c63da53d-e2b5-5514-979f-257a6ac91c96",
+          "topicID": "5FT",
+          "confidenceScore": 0.49,
+          "leafNode": false
+        },
+        {
+          "label": "Immigration",
+          "class": "Subject",
+          "id": "3101ac61-5e6c-5472-8de3-c49654a2db03",
+          "topicID": "84B",
+          "confidenceScore": 0.62,
+          "leafNode": false
+        },
+        {
+          "label": "Immigration, citizenship and displacement",
+          "class": "Subject",
+          "id": "2f999c15-7293-52a7-a0ee-e8b658c08137",
+          "topicID": "42R",
+          "confidenceScore": 0.62,
+          "leafNode": false
+        },
+        {
+          "label": "International relations and national security",
+          "class": "Subject",
+          "id": "84651cf3-02b9-4e37-8627-dc8b96235ba7",
+          "topicID": "350",
+          "confidenceScore": 0.62,
+          "leafNode": false
+        },
+        {
+          "label": "International trade",
+          "class": "Subject",
+          "id": "72eb45b6-5d53-5f48-af72-0a0234f2c330",
+          "topicID": "59V",
+          "confidenceScore": 0.49,
+          "leafNode": false
+        },
+        {
+          "label": "Millennials",
+          "class": "Subject",
+          "id": "cdbbc5a8-5715-4322-99f7-90a819985cf3",
+          "topicID": "X3",
+          "confidenceScore": 0.98,
+          "leafNode": true
+        },
+        {
+          "label": "Population and demographics",
+          "class": "Subject",
+          "id": "80f3b9c3-a02e-5894-9465-e9338d4d0532",
+          "topicID": "849",
+          "confidenceScore": 0.98,
+          "leafNode": false
+        },
+        {
+          "label": "Society",
+          "class": "Subject",
+          "id": "9c5826c0-329c-54ce-b065-3826ae02b3ab",
+          "topicID": "55G",
+          "confidenceScore": 0.98,
+          "leafNode": false
+        },
+        {
+          "label": "Trade and development",
+          "class": "Subject",
+          "id": "c9943343-49de-4aba-86d4-01da396006ba",
+          "topicID": "F6F",
+          "confidenceScore": 0.49,
+          "leafNode": false
+        }
+      ],
+      "relatedMedia": {
+        "hasImage": true,
+        "hasGallery": false,
+        "hasVideo": false,
+        "hasVideoCollection": false,
+        "hasInteractive": true,
+        "media": [
+          {
+            "id": null,
+            "referenceId": null,
+            "type": "interactive",
+            "location": "paragraph_6BCAEAAD-9A9E-EC22-2651-7B62487BFAC6",
+            "subtype": "webtag",
+            "slug": "follow @CNNOpinion",
+            "attributes": null
+          },
+          {
+            "id": "h_072fa88c3c5777b458429bd1840753ed",
+            "imageId": "h_072fa88c3c5777b458429bd1840753ed",
+            "type": "image",
+            "referenceUrl": "http://ref.hypatia.services.dmtio.net/svc/content/v2/search/collection1/id:h_072fa88c3c5777b458429bd1840753ed",
+            "referenceUri": "/svc/content/v2/search/collection1/id:h_072fa88c3c5777b458429bd1840753ed",
+            "location": "paragraph_B3B09416-9175-AD5C-A38E-7B5CAB74D410",
+            "slug": "Thrall, Trevor head shot",
+            "dam_id": "160315135643-thrall-trevor-head-shot",
+            "photographer": null,
+            "caption": "Trevor Thrall",
+            "cuts": {
+              "small4to3": {
+                "height": 186,
+                "width": 248,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160315135643-thrall-trevor-head-shot-assign.jpg"
+              },
+              "medium4to3": {
+                "height": 186,
+                "width": 248,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160315135643-thrall-trevor-head-shot-assign.jpg"
+              },
+              "large16to9": {
+                "height": 324,
+                "width": 576,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160315135643-thrall-trevor-head-shot-live-video.jpg"
+              },
+              "medium3to4": {
+                "height": 360,
+                "width": 270,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160315135643-thrall-trevor-head-shot-vertical-gallery.jpg"
+              },
+              "large4to3": {
+                "height": 480,
+                "width": 640,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160315135643-thrall-trevor-head-shot-video-synd-2.jpg"
+              },
+              "small16to9": {
+                "height": 144,
+                "width": 256,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160315135643-thrall-trevor-head-shot-hp-video.jpg"
+              },
+              "iPhoneTease": {
+                "height": 49,
+                "width": 87,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160315135643-thrall-trevor-head-shot-iphone-tease.jpg"
+              },
+              "exlarge16to9": {
+                "height": 619,
+                "width": 1100,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160315135643-thrall-trevor-head-shot-super-169.jpg"
+              },
+              "t1Panoramic": {
+                "height": 250,
+                "width": 670,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160315135643-thrall-trevor-head-shot-t1-panoramic.jpg"
+              },
+              "storyTablet": {
+                "height": 432,
+                "width": 768,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160315135643-thrall-trevor-head-shot-story-tablet.jpg"
+              },
+              "storyTop": {
+                "height": 360,
+                "width": 640,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160315135643-thrall-trevor-head-shot-story-top.jpg"
+              },
+              "large1to1": {
+                "height": 300,
+                "width": 300,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160315135643-thrall-trevor-head-shot-large-11.jpg"
+              },
+              "topTease": {
+                "height": 51,
+                "width": 90,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160315135643-thrall-trevor-head-shot-top-tease.jpg"
+              },
+              "small1to1": {
+                "height": 250,
+                "width": 250,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160315135643-thrall-trevor-head-shot-t1-main.jpg"
+              },
+              "t1Main": {
+                "height": 250,
+                "width": 250,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160315135643-thrall-trevor-head-shot-t1-main.jpg"
+              },
+              "medium1to1": {
+                "height": 250,
+                "width": 250,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160315135643-thrall-trevor-head-shot-t1-main.jpg"
+              },
+              "c1Main": {
+                "height": 234,
+                "width": 416,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160315135643-thrall-trevor-head-shot-c1-main.jpg"
+              },
+              "phoneGallery": {
+                "height": 320,
+                "width": 480,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160315135643-thrall-trevor-head-shot-phone-gallery.jpg"
+              },
+              "smallVideo": {
+                "height": 180,
+                "width": 320,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160315135643-thrall-trevor-head-shot-small-video.jpg"
+              },
+              "storyBody": {
+                "height": 169,
+                "width": 300,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160315135643-thrall-trevor-head-shot-story-body.jpg"
+              },
+              "medium16to9": {
+                "height": 169,
+                "width": 300,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160315135643-thrall-trevor-head-shot-story-body.jpg"
+              },
+              "t1iPhone": {
+                "height": 254,
+                "width": 320,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160315135643-thrall-trevor-head-shot-t1-iphone.jpg"
+              },
+              "large3to4": {
+                "height": 552,
+                "width": 414,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160315135643-thrall-trevor-head-shot-vertical-large-gallery.jpg"
+              }
+            }
+          },
+          {
+            "id": "h_66b33193886ed33636fa1549b09b43fc",
+            "imageId": "h_66b33193886ed33636fa1549b09b43fc",
+            "type": "image",
+            "referenceUrl": "http://ref.hypatia.services.dmtio.net/svc/content/v2/search/collection1/id:h_66b33193886ed33636fa1549b09b43fc",
+            "referenceUri": "/svc/content/v2/search/collection1/id:h_66b33193886ed33636fa1549b09b43fc",
+            "location": "pageTop",
+            "slug": "02 trump 0315",
+            "dam_id": "160315112736-02-trump-0315",
+            "photographer": "Gerald Herbert/AP",
+            "caption": "Republican presidential candidate Donald Trump speaks to his supporters at a campaign event in Florida.",
+            "cuts": {
+              "small4to3": {
+                "height": 186,
+                "width": 248,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160315112736-02-trump-0315-assign.jpg"
+              },
+              "medium4to3": {
+                "height": 186,
+                "width": 248,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160315112736-02-trump-0315-assign.jpg"
+              },
+              "large16to9": {
+                "height": 324,
+                "width": 576,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160315112736-02-trump-0315-live-video.jpg"
+              },
+              "medium3to4": {
+                "height": 360,
+                "width": 270,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160315112736-02-trump-0315-vertical-gallery.jpg"
+              },
+              "large4to3": {
+                "height": 480,
+                "width": 640,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160315112736-02-trump-0315-video-synd-2.jpg"
+              },
+              "small16to9": {
+                "height": 144,
+                "width": 256,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160315112736-02-trump-0315-hp-video.jpg"
+              },
+              "iPhoneTease": {
+                "height": 49,
+                "width": 87,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160315112736-02-trump-0315-iphone-tease.jpg"
+              },
+              "exlarge16to9": {
+                "height": 619,
+                "width": 1100,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160315112736-02-trump-0315-super-169.jpg"
+              },
+              "t1Panoramic": {
+                "height": 250,
+                "width": 670,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160315112736-02-trump-0315-t1-panoramic.jpg"
+              },
+              "storyTablet": {
+                "height": 432,
+                "width": 768,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160315112736-02-trump-0315-story-tablet.jpg"
+              },
+              "storyTop": {
+                "height": 360,
+                "width": 640,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160315112736-02-trump-0315-story-top.jpg"
+              },
+              "large1to1": {
+                "height": 300,
+                "width": 300,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160315112736-02-trump-0315-large-11.jpg"
+              },
+              "topTease": {
+                "height": 51,
+                "width": 90,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160315112736-02-trump-0315-top-tease.jpg"
+              },
+              "small1to1": {
+                "height": 250,
+                "width": 250,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160315112736-02-trump-0315-t1-main.jpg"
+              },
+              "t1Main": {
+                "height": 250,
+                "width": 250,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160315112736-02-trump-0315-t1-main.jpg"
+              },
+              "medium1to1": {
+                "height": 250,
+                "width": 250,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160315112736-02-trump-0315-t1-main.jpg"
+              },
+              "c1Main": {
+                "height": 234,
+                "width": 416,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160315112736-02-trump-0315-c1-main.jpg"
+              },
+              "phoneGallery": {
+                "height": 320,
+                "width": 480,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160315112736-02-trump-0315-phone-gallery.jpg"
+              },
+              "smallVideo": {
+                "height": 180,
+                "width": 320,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160315112736-02-trump-0315-small-video.jpg"
+              },
+              "storyBody": {
+                "height": 169,
+                "width": 300,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160315112736-02-trump-0315-story-body.jpg"
+              },
+              "medium16to9": {
+                "height": 169,
+                "width": 300,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160315112736-02-trump-0315-story-body.jpg"
+              },
+              "t1iPhone": {
+                "height": 254,
+                "width": 320,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160315112736-02-trump-0315-t1-iphone.jpg"
+              },
+              "large3to4": {
+                "height": 552,
+                "width": 414,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160315112736-02-trump-0315-vertical-large-gallery.jpg"
+              }
+            }
+          },
+          {
+            "id": "h_66b33193886ed33636fa1549b09b43fc",
+            "imageId": "h_66b33193886ed33636fa1549b09b43fc",
+            "type": "image",
+            "referenceUrl": "http://ref.hypatia.services.dmtio.net/svc/content/v2/search/collection1/id:h_66b33193886ed33636fa1549b09b43fc",
+            "referenceUri": "/svc/content/v2/search/collection1/id:h_66b33193886ed33636fa1549b09b43fc",
+            "location": "tease",
+            "slug": "02 trump 0315",
+            "dam_id": "160315112736-02-trump-0315",
+            "photographer": "Gerald Herbert/AP",
+            "caption": "Republican presidential candidate Donald Trump speaks to his supporters at a campaign event in Tampa, Fla., Monday, March 14, 2016. (AP Photo/Gerald Herbert)",
+            "cuts": {
+              "small4to3": {
+                "height": 186,
+                "width": 248,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160315112736-02-trump-0315-assign.jpg"
+              },
+              "medium4to3": {
+                "height": 186,
+                "width": 248,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160315112736-02-trump-0315-assign.jpg"
+              },
+              "large16to9": {
+                "height": 324,
+                "width": 576,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160315112736-02-trump-0315-live-video.jpg"
+              },
+              "medium3to4": {
+                "height": 360,
+                "width": 270,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160315112736-02-trump-0315-vertical-gallery.jpg"
+              },
+              "large4to3": {
+                "height": 480,
+                "width": 640,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160315112736-02-trump-0315-video-synd-2.jpg"
+              },
+              "small16to9": {
+                "height": 144,
+                "width": 256,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160315112736-02-trump-0315-hp-video.jpg"
+              },
+              "iPhoneTease": {
+                "height": 49,
+                "width": 87,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160315112736-02-trump-0315-iphone-tease.jpg"
+              },
+              "exlarge16to9": {
+                "height": 619,
+                "width": 1100,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160315112736-02-trump-0315-super-169.jpg"
+              },
+              "t1Panoramic": {
+                "height": 250,
+                "width": 670,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160315112736-02-trump-0315-t1-panoramic.jpg"
+              },
+              "storyTablet": {
+                "height": 432,
+                "width": 768,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160315112736-02-trump-0315-story-tablet.jpg"
+              },
+              "storyTop": {
+                "height": 360,
+                "width": 640,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160315112736-02-trump-0315-story-top.jpg"
+              },
+              "large1to1": {
+                "height": 300,
+                "width": 300,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160315112736-02-trump-0315-large-11.jpg"
+              },
+              "topTease": {
+                "height": 51,
+                "width": 90,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160315112736-02-trump-0315-top-tease.jpg"
+              },
+              "small1to1": {
+                "height": 250,
+                "width": 250,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160315112736-02-trump-0315-t1-main.jpg"
+              },
+              "t1Main": {
+                "height": 250,
+                "width": 250,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160315112736-02-trump-0315-t1-main.jpg"
+              },
+              "medium1to1": {
+                "height": 250,
+                "width": 250,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160315112736-02-trump-0315-t1-main.jpg"
+              },
+              "c1Main": {
+                "height": 234,
+                "width": 416,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160315112736-02-trump-0315-c1-main.jpg"
+              },
+              "phoneGallery": {
+                "height": 320,
+                "width": 480,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160315112736-02-trump-0315-phone-gallery.jpg"
+              },
+              "smallVideo": {
+                "height": 180,
+                "width": 320,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160315112736-02-trump-0315-small-video.jpg"
+              },
+              "storyBody": {
+                "height": 169,
+                "width": 300,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160315112736-02-trump-0315-story-body.jpg"
+              },
+              "medium16to9": {
+                "height": 169,
+                "width": 300,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160315112736-02-trump-0315-story-body.jpg"
+              },
+              "t1iPhone": {
+                "height": 254,
+                "width": 320,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160315112736-02-trump-0315-t1-iphone.jpg"
+              },
+              "large3to4": {
+                "height": 552,
+                "width": 414,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160315112736-02-trump-0315-vertical-large-gallery.jpg"
+              }
+            }
+          }
+        ],
+        "autoZone": {
+          "auto": false
+        }
+      },
+      "parent": {
+        "id": null
+      },
+      "language": "en"
+    },
+    {
+      "id": "h_43d0a27c293c32c63694786696179303",
+      "sourceId": "article_D934B8C9-1A90-8FD7-7C9C-6263468F32E5",
+      "type": "article",
+      "dataSource": "cnn",
+      "schema": "/svc/content/v2/schema/article.schema.json",
+      "schemaVersion": 2,
+      "status": {
+        "state": "published"
+      },
+      "firstPublishDate": "2016-03-10T23:50:47Z",
+      "lastPublishDate": "2016-03-10T23:50:47Z",
+      "lastModifiedDate": "2016-03-10T23:47:07Z",
+      "slug": "north korea response flake",
+      "url": "http://www.cnn.com/2016/03/10/opinions/north-korea-response-flake/index.html",
+      "headline": "North Korea Groundhog Day is coming to an end",
+      "title": "North Korea Groundhog Day coming to an end? (Opinion)",
+      "mobileHeadline": "Opinion: North Korea Groundhog Day almost over",
+      "socialHeadline": "North Korea Groundhog Day coming to an end",
+      "description": [
+        {
+          "id": "0",
+          "plaintext": "The seemingly endless cycle of North Korean provocation, international condemnation and little change is set to be broken, writes Gordon Flake.",
+          "richtext": "The seemingly endless cycle of North Korean provocation, international condemnation and little change is set to be broken, writes Gordon Flake.",
+          "elements": []
+        }
+      ],
+      "attributes": {
+        "template": "/cnn/global/cfg/common/article.json",
+        "showComments": false,
+        "inews": true,
+        "syndicationServiceUri": "/serviceFacade/channel/cms3",
+        "sms": false,
+        "showAds": "Normal",
+        "content": true,
+        "timestamp": "Update",
+        "email": false,
+        "branding": "default",
+        "syndicationTemplate": "/cnn/syndication/cfg/storybuilder/story-builder.json",
+        "summaries": true,
+        "mobile": true
+      },
+      "body": {
+        "footer": null,
+        "notes": {
+          "www": "Gordon Flake is the founding CEO of the Perth USAsia Centre at the University of Western Australia. He spent nearly 25 years working in the Asia Policy think tank community in Washington DC and has visited North Korea on numerous occasions. The views expressed are his own.",
+          "intl": "Gordon Flake is the founding CEO of the Perth USAsia Centre at the University of Western Australia. He spent nearly 25 years working in the Asia Policy think tank community in Washington DC and has visited North Korea on numerous occasions. The views expressed are his own.",
+          "wwwText": [
+            {
+              "id": "0",
+              "plaintext": "Gordon Flake is the founding CEO of the Perth USAsia Centre at the University of Western Australia. He spent nearly 25 years working in the Asia Policy think tank community in Washington DC and has visited North Korea on numerous occasions. The views expressed are his own.",
+              "richtext": "Gordon Flake is the founding CEO of the Perth USAsia Centre at the University of Western Australia. He spent nearly 25 years working in the Asia Policy think tank community in Washington DC and has visited North Korea on numerous occasions. The views expressed are his own.",
+              "elements": []
+            }
+          ],
+          "intlText": [
+            {
+              "id": "0",
+              "plaintext": "Gordon Flake is the founding CEO of the Perth USAsia Centre at the University of Western Australia. He spent nearly 25 years working in the Asia Policy think tank community in Washington DC and has visited North Korea on numerous occasions. The views expressed are his own.",
+              "richtext": "Gordon Flake is the founding CEO of the Perth USAsia Centre at the University of Western Australia. He spent nearly 25 years working in the Asia Policy think tank community in Washington DC and has visited North Korea on numerous occasions. The views expressed are his own.",
+              "elements": []
+            }
+          ],
+          "type": "Editor's Note"
+        },
+        "paragraphs": [
+          {
+            "id": "paragraph_B5EBE5E1-9735-0D6F-DF04-626346B1CF7B",
+            "plaintext": "Thanks to Bill Murray, most of us now associate Groundhog Day with the sensation of history repeating itself over and over again. There is a similar feeling when it comes to North Korea and the seemingly endless cycle of provocation, international outrage, strongly worded but ultimately ineffective U.N. Security Council statements, and a lack of discernible change in North Korean behavior. ",
+            "richtext": "Thanks to Bill Murray, most of us now associate Groundhog Day with the sensation of history repeating itself over and over again. There is a similar feeling when it comes to North Korea and the seemingly endless cycle of provocation, international outrage, strongly worded but ultimately ineffective U.N. Security Council statements, and a lack of discernible change in North Korean behavior. ",
+            "elements": []
+          },
+          {
+            "id": "paragraph_0FC8C13F-AB14-456F-E094-626555DAB99F",
+            "plaintext": "With that in mind, it is hardly surprising that there is widespread skepticism over the latest U.N. Security Council resolution, issued this week following North Korea's testing of a nuclear device in January. After all, we have seen all this before. ",
+            "richtext": "With that in mind, it is hardly surprising that there is widespread skepticism over the <a href=\"http://www.un.org/en/ga/search/view_doc.asp?symbol=S/RES/2270(2016)\" target=\"_blank\">latest U.N. Security Council resolution</a>, issued this week following North Korea's testing of a nuclear device in January. After all, we have seen all this before. ",
+            "elements": []
+          },
+          {
+            "id": "paragraph_36374D87-1A47-245E-5C3F-626555DCADD0",
+            "plaintext": "True, international experts doubt North Korea's claim that it was a hydrogen bomb. However, following previous tests in 2006, 2009 and 2013 and the country's penchant for proliferation, even a fourth test of a fission device is cause for grave concern, not only to North Korea's near neighbors but also to countries far from its shores. ",
+            "richtext": "True, international experts doubt North Korea's claim that it was a hydrogen bomb. However, following previous tests in 2006, <a href=\"http://www.cnn.com/2009/WORLD/asiapcf/05/24/nkorea.nuclear/index.html?section=cnn_latest\">2009</a> and <a href=\"http://www.cnn.com/2013/02/11/world/asia/north-korea-seismic-disturbance/\">2013</a> and the country's penchant for proliferation, even a fourth test of a fission device is cause for grave concern, not only to North Korea's near neighbors but also to countries far from its shores. ",
+            "elements": [
+              {
+                "type": "handle",
+                "attributes": {
+                  "appearance": "standard",
+                  "description": "Flake, Gordon head shot",
+                  "caption": "Gordon Flake",
+                  "targetLinkUri": "",
+                  "targetLinkOid": null,
+                  "targetLinkType": ""
+                },
+                "target": {
+                  "type": "image",
+                  "subtype": null,
+                  "referenceUrl": "http://ref.hypatia.services.dmtio.net/svc/content/v2/search/collection1/id:h_b31086f0b071344dc964ed5c020414c8",
+                  "referenceUri": "/svc/content/v2/search/collection1/id:h_b31086f0b071344dc964ed5c020414c8"
+                }
+              }
+            ]
+          },
+          {
+            "id": "paragraph_F7C2A74D-634B-CC75-381C-626555DC6706",
+            "plaintext": "Indeed, even before the international community could respond to the January test, North Korea upped the ante with yet another launch of a long-range missile in early February. While North Korea defended the launch as part of its satellite program, the U.N. Security Council made it clear that any \"launch that uses ballistic missile technology, even if characterized as a satellite launch or space launch vehicle, contributes to the DPRK's development of nuclear weapon delivery systems and is a serious violation of Security Council resolutions.\"",
+            "richtext": "Indeed, even before the international community could respond to the January test, North Korea upped the ante with yet another <a href=\"http://www.cnn.com/2016/02/06/asia/north-korea-rocket-launch-window/\">launch of a long-range missile in early February</a>. While North Korea defended the launch as part of its satellite program, the U.N. Security Council made it clear that any \"launch that uses ballistic missile technology, even if characterized as a satellite launch or space launch vehicle, contributes to the DPRK's development of nuclear weapon delivery systems and is a serious violation of Security Council resolutions.\"",
+            "elements": []
+          },
+          {
+            "id": "paragraph_ABD02D7E-4D39-51B6-BA5F-626555DD78E2",
+            "plaintext": "Despite the clarity of such statements and resolutions, there has been little discernible moderation of North Korean behavior -- if anything they appear to have grown increasingly provocative each time the cycle repeats, just this week threatening \"indiscriminate\" nuclear strikes on the United States and South Korea, and on Wednesday launching two short-range missiles.",
+            "richtext": "Despite the clarity of such statements and resolutions, there has been little discernible moderation of North Korean behavior -- if anything they appear to have grown increasingly provocative each time the cycle repeats, just this week <a href=\"http://www.telegraph.co.uk/news/worldnews/asia/northkorea/12185477/North-Korea-threatens-nuclear-strikes-against-South-Korea-and-US.html\" target=\"_blank\">threatening \"indiscriminate\" nuclear strikes</a> on the United States and South Korea, and on Wednesday <a href=\"http://www.cnn.com/2016/03/10/asia/north-korea-missiles/index.html\">launching two short-range missiles</a>.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_7FA717DB-209C-7BFD-DB52-626555DE63B5",
+            "plaintext": "But a closer examination of recent developments reveals three fundamental shifts that suggest the Groundhog Day pattern may be about to be broken.",
+            "richtext": "But a closer examination of recent developments reveals three fundamental shifts that suggest the Groundhog Day pattern may be about to be broken.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_5B89C115-4193-7BA3-E72E-626555DFF2B9",
+            "plaintext": "First, there appears to have been a seismic shift in South Korean policy toward North Korea. Since 1998, South Korean governments of both conservative and progressive bents have pursued a policy of coexistence with the North, seeking to avoid the costs and risks associated with conflict or an abrupt unification. ",
+            "richtext": "First, there appears to have been a seismic shift in South Korean policy toward North Korea. Since 1998, South Korean governments of both conservative and progressive bents have pursued a policy of coexistence with the North, seeking to avoid the costs and risks associated with conflict or an abrupt unification. ",
+            "elements": []
+          },
+          {
+            "id": "paragraph_0CB41F01-E15A-23A4-8C14-626555E08AF1",
+            "plaintext": "However, in an historic and sweeping speech to the Korean National Assembly on February 15, South Korean President Park Geun-hye made it increasingly clear that the South has abandoned its policy of engagement with North Korea.",
+            "richtext": "However, in an historic and <a href=\"http://www.usnews.com/news/world/articles/2016-02-15/south-koreas-leader-warns-of-north-korea-collapse\" target=\"_blank\">sweeping speech</a> to the Korean National Assembly on February 15, South Korean President Park Geun-hye made it increasingly clear that the South has abandoned its policy of engagement with North Korea.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_40F23E01-6467-791B-85A6-62E8D8D54899",
+            "plaintext": " As evidence of this determination, South Korea closed the Kaesong North-South Industrial Complex operating in North Korea, one of the last remaining symbols of inter-Korean cooperation that has weathered numerous previous crises since launching in 2003. Also, after 11 years of partisan gridlock, the South Korean National Assembly passed a landmark North Korea Human Rights Act last Wednesday.",
+            "richtext": " As evidence of this determination, South Korea <a href=\"http://www.theguardian.com/world/2016/feb/10/seoul-shuts-down-joint-north-south-korea-industrial-complex-kaesong\" target=\"_blank\">closed</a> the Kaesong North-South Industrial Complex operating in North Korea, one of the last remaining symbols of inter-Korean cooperation that has weathered numerous previous crises since launching in 2003. Also, after 11 years of partisan gridlock, the South Korean National Assembly <a href=\"https://www.washingtonpost.com/world/asia_pacific/south-korean-parliament-passes-north-korea-human-rights-law/2016/03/02/e790b316-e087-11e5-8c00-8aa03741dced_story.html\" target=\"_blank\">passed a landmark North Korea Human Rights Act</a> last Wednesday.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_9D37CD4F-A9B0-1042-BF37-626555E1A824",
+            "plaintext": "A second shift was a subsequent agreement between South Korea and the United States to begin formal consultations on the deployment of an anti-ballistic missile system known as THAAD (Terminal High Altitude Area Defense (THAAD.)",
+            "richtext": "A second shift was a subsequent agreement between South Korea and the United States to begin formal consultations on the deployment of an anti-ballistic missile system known as THAAD (Terminal High Altitude Area Defense (THAAD.)",
+            "elements": []
+          },
+          {
+            "id": "paragraph_238FCC2F-B14D-7689-2AB1-62E94E7A92EE",
+            "plaintext": "China has opposed the potential deployment of THAAD in Korea and it remains highly sensitive in South Korea due to concerns over the risk of antagonizing China. Needless to say, the most recent North Korean actions have shifted the public debate on the issue in South Korea in a direction that is of concern to Beijing.",
+            "richtext": "China has opposed the potential deployment of THAAD in Korea and it remains highly sensitive in South Korea due to concerns over the risk of antagonizing China. Needless to say, the most recent North Korean actions have shifted the public debate on the issue in South Korea in a direction that is of concern to Beijing.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_E9EFA837-0F12-6FD3-BDF7-626555E2FDD6",
+            "plaintext": "Finally, the U.S. response has also been markedly different. Despite an extremely partisan environment in Washington, heightened further by this year's chaotic elections, on February 18 President Barack Obama signed the North Korea Sanctions and Policy Enhancement Act of 2016 which passed the U.S. House of Representatives on a 418 to 2 vote and that was unanimously approved by the U.S. Senate.",
+            "richtext": "Finally, the U.S. response has also been markedly different. Despite an extremely partisan environment in Washington, heightened further by this year's chaotic elections, on February 18 President Barack Obama signed the <a href=\"https://www.cbo.gov/publication/51224\" target=\"_blank\">North Korea Sanctions and Policy Enhancement Act of 2016</a> which passed the U.S. House of Representatives on a <a href=\"http://www.nytimes.com/2016/02/11/world/asia/senate-approves-penalties-for-aiding-north-korean-nuclear-program.html?_r=0\" target=\"_blank\">418 to 2 vote</a> and that was unanimously approved by the U.S. Senate.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_3D071A08-66D5-BFA5-F8A2-62EA44FC408B",
+            "plaintext": "Few issues today are capable of securing both a signature by President Obama and votes from current presidential candidates Sen. Ted Cruz and Sen. Marco Rubio.",
+            "richtext": "Few issues today are capable of securing both a signature by President Obama and votes from current presidential candidates Sen. Ted Cruz and Sen. Marco Rubio.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_74573F62-364C-8A21-FDFA-626555E3A03E",
+            "plaintext": "In \"Groundhog Day,\" the cycle was broken by a change of heart.  There is faint hope that North Korea itself will experience a Bill Murray-style conversion, but there is perhaps greater hope that the three factors listed above might influence how China views North Korea.  ",
+            "richtext": "In \"Groundhog Day,\" the cycle was broken by a change of heart.  There is faint hope that North Korea itself will experience a Bill Murray-style conversion, but there is perhaps greater hope that the three factors listed above might influence how China views North Korea.  ",
+            "elements": []
+          },
+          {
+            "id": "paragraph_D7543DE1-24D7-938D-B90E-626555E4AB15",
+            "plaintext": "For the past decade, there has been a growing consensus that any real change in North Korea's calculus would require a fundamental shift in policy by China coupled with a willingness to put real pressure on North Korea. Given increasing divergence between the United States and two other permanent members on the U.N. Security Council, China and Russia, a meaningful response to North Korea's most recent provocations was not a forgone conclusion. ",
+            "richtext": "For the past decade, there has been a growing consensus that any real change in North Korea's calculus would require a fundamental shift in policy by China coupled with a willingness to put real pressure on North Korea. Given increasing divergence between the United States and two other permanent members on the U.N. Security Council, China and Russia, a meaningful response to North Korea's most recent provocations was not a forgone conclusion. ",
+            "elements": []
+          },
+          {
+            "id": "paragraph_EA61183C-368B-CFAD-B492-626555E5F61C",
+            "plaintext": "Yet the combination of these factors seems to have shifted Chinese thinking on how best to deal with North Korea. That and skillful diplomacy at the United Nations have resulted in a substantial escalation of sanctions on North Korea which, if implemented properly, will apply veritable economic pressure on the Kim regime.",
+            "richtext": "Yet the combination of these factors seems to have shifted Chinese thinking on how best to deal with North Korea. That and skillful diplomacy at the United Nations have resulted in a substantial escalation of sanctions on North Korea which, if implemented properly, will apply veritable economic pressure on the Kim regime.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_D3FFAF73-81D1-12D6-7DF2-62EB8EE14A36",
+            "plaintext": "And while China is still unlikely to completely abandon its erstwhile ally and its implementation of past sanctions has not been rigorous, Beijing's support for Resolution 2270 is significant.",
+            "richtext": "And while China is still unlikely to completely abandon its erstwhile ally and its implementation of past sanctions has not been rigorous, Beijing's support for Resolution 2270 is significant.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_6A3A2B96-F9A2-754A-49ED-626555E626A6",
+            "plaintext": "Still, it would be unrealistic to expect a dramatic change in North Korean behavior in the short run. The country has given little indication that it is willing or capable of altering course. In fact, as anticipated, North Korea has responded to the passage of the most U.N. action with further missile tests and a sharp increase in rhetoric. ",
+            "richtext": "Still, it would be unrealistic to expect a dramatic change in North Korean behavior in the short run. The country has given little indication that it is willing or capable of altering course. In fact, as anticipated, North Korea has responded to the passage of the most U.N. action with further missile tests and a sharp increase in rhetoric. ",
+            "elements": []
+          },
+          {
+            "id": "paragraph_B590A9E2-5492-9C80-3ACE-626555E7917B",
+            "plaintext": "Hyperbole such as the threat this week to conduct \"pre-emptive\" nuclear strikes is not new -- North has threatened to turn Seoul in to a \"Sea of Fire\" since as early as 1994. But what is new is that, more than any previous international response, UNSCR 2270 has real teeth and for the first time sanctions specific sectors of the North Korean economy. ",
+            "richtext": "Hyperbole such as the threat this week to conduct \"pre-emptive\" nuclear strikes is not new -- North has <a href=\"http://www.cnn.com/2011/11/24/world/asia/north-korea-sea-of-fire/\">threatened to turn Seoul in to a \"Sea of Fire\" since as early as 1994</a>. But what is new is that, more than any previous international response, UNSCR 2270 has real teeth and for the first time sanctions specific sectors of the North Korean economy. ",
+            "elements": []
+          },
+          {
+            "id": "paragraph_8400E8FC-5026-08C9-2A95-626555E8DB59",
+            "plaintext": "Together with the bite of closing the Kaesong complex, this latest resolution should put real pressure on Pyongyang at a time when China is also increasingly vocal in its displeasure. If nothing else, the latest round of North Korean provocations has strengthened South Korea-U.S. ties and forged a new consensus in Seoul, Washington and in the Security Council, all of which are essential in handling North Korea. ",
+            "richtext": "Together with the bite of closing the Kaesong complex, this latest resolution should put real pressure on Pyongyang at a time when China is also increasingly vocal in its displeasure. If nothing else, the latest round of North Korean provocations has strengthened South Korea-U.S. ties and forged a new consensus in Seoul, Washington and in the Security Council, all of which are essential in handling North Korea. ",
+            "elements": []
+          },
+          {
+            "id": "paragraph_C1BE994D-C4CF-2652-CF7F-626555EA5EBF",
+            "plaintext": "Ultimately, whether we see six more weeks of winter or the onset of spring, hold on to your seats -- it is Groundhog Day no longer.",
+            "richtext": "Ultimately, whether we see six more weeks of winter or the onset of spring, hold on to your seats -- it is Groundhog Day no longer.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_4A97D3B6-4618-D137-5387-6265F672D8C6",
+            "plaintext": "Join us on Facebook.com/CNNOpinion.\nRead CNNOpinion's new Flipboard magazine.",
+            "richtext": "Join us on Facebook.com/CNNOpinion.\nRead CNNOpinion's new Flipboard magazine.",
+            "elements": [
+              {
+                "type": "handle",
+                "attributes": {
+                  "appearance": "standard",
+                  "description": "follow @CNNOpinion",
+                  "caption": "",
+                  "imageOid": null
+                },
+                "target": {
+                  "type": "interactive",
+                  "subtype": "webtag",
+                  "referenceUrl": null,
+                  "referenceUri": null
+                }
+              }
+            ]
+          }
+        ],
+        "wordCount": 1092
+      },
+      "source": "CNN",
+      "byline": "By Gordon Flake",
+      "branding": "default",
+      "storyType": "Story",
+      "section": "opinions",
+      "location": null,
+      "highlights": [
+        {
+          "id": "0",
+          "plaintext": "Gordon Flake: There appears to have been a seismic shift in South Korean policy toward North Korea",
+          "richtext": "Gordon Flake: There appears to have been a seismic shift in South Korean policy toward North Korea",
+          "elements": []
+        },
+        {
+          "id": "1",
+          "plaintext": "Chinese thinking on its neighbor also seems to be changing, he says",
+          "richtext": "Chinese thinking on its neighbor also seems to be changing, he says",
+          "elements": []
+        }
+      ],
+      "partner": null,
+      "smsbody": "Thanks to Bill Murray, most of us now associate Groundhog Day with the sensation of history repeating itself over and over again. There i",
+      "contributors": [
+        {
+          "firstName": "Gordon",
+          "middleName": null,
+          "lastName": "Flake",
+          "fullName": "Gordon Flake"
+        }
+      ],
+      "topics": [
+        {
+          "label": "Asia",
+          "class": "Place",
+          "id": "40d1fed4-9ef4-44f3-a5dd-9889e54520c2",
+          "topicID": "5PD",
+          "confidenceScore": 1,
+          "leafNode": false
+        },
+        {
+          "label": "Aviation and aerospace industry",
+          "class": "Subject",
+          "id": "afab7f2b-d78d-56ce-9921-22d3ea7824eb",
+          "topicID": "7P3",
+          "confidenceScore": 0.48,
+          "leafNode": false
+        },
+        {
+          "label": "Business and industry sectors",
+          "class": "Subject",
+          "id": "4ccf7de0-5c99-5e8e-95dd-54ef32c131a0",
+          "topicID": "80N",
+          "confidenceScore": 0.48,
+          "leafNode": false
+        },
+        {
+          "label": "China",
+          "class": "Place",
+          "id": "0e0ee08e-cbef-43a0-9d6a-f5684313f0f5",
+          "topicID": "5NT",
+          "confidenceScore": 0.66,
+          "leafNode": false
+        },
+        {
+          "label": "East Asia",
+          "class": "Place",
+          "id": "34dbaca5-99c1-49dd-ab12-812faa2e83b9",
+          "topicID": "5P1",
+          "confidenceScore": 1,
+          "leafNode": false
+        },
+        {
+          "label": "Groundhog Day",
+          "class": "Event",
+          "id": "6abedde5-01f3-46fe-a12e-e91a6edb2d10",
+          "topicID": "4CYZ",
+          "confidenceScore": 0.76,
+          "leafNode": true
+        },
+        {
+          "label": "Holidays and observances",
+          "class": "Event",
+          "id": "f55f1daf-e78e-5162-a61e-2b4626661c55",
+          "topicID": "4GJ",
+          "confidenceScore": 0.76,
+          "leafNode": false
+        },
+        {
+          "label": "Military",
+          "class": "Subject",
+          "id": "f1532a51-de35-43bd-9571-93d708635fbd",
+          "topicID": "G03",
+          "confidenceScore": 0.68,
+          "leafNode": false
+        },
+        {
+          "label": "Military weapons",
+          "class": "Subject",
+          "id": "90b399ea-ab3b-5009-8f8e-8802388a83d7",
+          "topicID": "5DQ",
+          "confidenceScore": 0.57,
+          "leafNode": false
+        },
+        {
+          "label": "North America",
+          "class": "Place",
+          "id": "ba149945-03c8-4584-83c3-13dd4e4b89cd",
+          "topicID": "BLL",
+          "confidenceScore": 0.49,
+          "leafNode": false
+        },
+        {
+          "label": "North Korea",
+          "class": "Place",
+          "id": "d0f9ef76-7ac0-4b1d-b3be-fa96c788ed36",
+          "topicID": "5RL",
+          "confidenceScore": 1,
+          "leafNode": false
+        },
+        {
+          "label": "North Korea nuclear development",
+          "class": "Storyline",
+          "id": "e1a5a5c2-1dec-46a9-817d-6bccd301c4e1",
+          "topicID": "B3X",
+          "confidenceScore": 0.91,
+          "leafNode": true
+        },
+        {
+          "label": "Nuclear weapons",
+          "class": "Subject",
+          "id": "6fc2a545-6936-5dcf-baec-0274d482b61f",
+          "topicID": "5DL",
+          "confidenceScore": 0.68,
+          "leafNode": true
+        },
+        {
+          "label": "South Korea",
+          "class": "Place",
+          "id": "a3a2ef70-9780-4a81-ade7-a7badaf09fef",
+          "topicID": "5QQ",
+          "confidenceScore": 0.82,
+          "leafNode": false
+        },
+        {
+          "label": "Space and astronomy",
+          "class": "Subject",
+          "id": "8f430589-f819-5d56-82c8-0d0bf9c4a616",
+          "topicID": "554",
+          "confidenceScore": 0.48,
+          "leafNode": false
+        },
+        {
+          "label": "Space industry",
+          "class": "Subject",
+          "id": "46754d0f-1e5f-46f2-9ce3-673138c7bd98",
+          "topicID": "FNT",
+          "confidenceScore": 0.48,
+          "leafNode": false
+        },
+        {
+          "label": "Spacecraft and satellites",
+          "class": "Subject",
+          "id": "2a163983-8247-5d74-8502-8b97eb493fbf",
+          "topicID": "8FC",
+          "confidenceScore": 0.48,
+          "leafNode": false
+        },
+        {
+          "label": "United Nations",
+          "class": "Organization",
+          "id": "524fac64-3ec9-5758-8ad8-90a3f7e27b1d",
+          "topicID": "45V",
+          "confidenceScore": 0.59,
+          "leafNode": false
+        },
+        {
+          "label": "United States",
+          "class": "Place",
+          "id": "7bacc4f5-0758-4abd-a57e-c3633bd0f1aa",
+          "topicID": "BLX",
+          "confidenceScore": 0.49,
+          "leafNode": false
+        },
+        {
+          "label": "Weapons and arms",
+          "class": "Subject",
+          "id": "c2e82037-93f5-502f-b75b-0cb7b8316689",
+          "topicID": "5DM",
+          "confidenceScore": 0.68,
+          "leafNode": false
+        },
+        {
+          "label": "Weapons of mass destruction",
+          "class": "Subject",
+          "id": "69970ebe-77d0-4bcb-aab9-3b6e0050dfc6",
+          "topicID": "DBR",
+          "confidenceScore": 0.68,
+          "leafNode": false
+        }
+      ],
+      "relatedMedia": {
+        "hasImage": true,
+        "hasGallery": true,
+        "hasVideo": false,
+        "hasVideoCollection": false,
+        "hasInteractive": true,
+        "media": [
+          {
+            "id": "h_b173c5b990540469cfb15b288483d437",
+            "referenceId": "h_b173c5b990540469cfb15b288483d437",
+            "type": "reference",
+            "location": "pageTop",
+            "headline": "North Korea's verbal volleys",
+            "description": [],
+            "url": "http://www.cnn.com/2015/02/06/world/gallery/north-korea-verbal-volleys/index.html",
+            "referenceType": "gallery",
+            "referenceUrl": "http://ref.hypatia.services.dmtio.net/svc/content/v2/search/collection1/id:h_b173c5b990540469cfb15b288483d437",
+            "referenceUri": "/svc/content/v2/search/collection1/id:h_b173c5b990540469cfb15b288483d437",
+            "cuts": null,
+            "auxiliaryText": null
+          },
+          {
+            "id": "h_be549cf2a6aaffd2455b351e4d6e67f8",
+            "imageId": "h_be549cf2a6aaffd2455b351e4d6e67f8",
+            "type": "image",
+            "referenceUrl": "http://ref.hypatia.services.dmtio.net/svc/content/v2/search/collection1/id:h_be549cf2a6aaffd2455b351e4d6e67f8",
+            "referenceUri": "/svc/content/v2/search/collection1/id:h_be549cf2a6aaffd2455b351e4d6e67f8",
+            "location": "pageTop",
+            "slug": "north korea military 1",
+            "dam_id": "160310152242-north-korea-military-1",
+            "photographer": "ED JONES/AFP/AFP/Getty Images",
+            "caption": "A North Korean soldier salutes from a tank during a military parade past Kim Il-Sung square marking the 60th anniversary of the Korean war armistice in Pyongyang on July 27, 2013.  North Korea mounted its largest ever military parade on July 27 to mark the 60th anniversary of the armistice that ended fighting in the Korean War, displaying its long-range missiles at a ceremony presided over by leader Kim Jong-Un.  AFP PHOTO / Ed Jones        (Photo credit should read Ed Jones/AFP/Getty Images)",
+            "cuts": {
+              "small4to3": {
+                "height": 186,
+                "width": 248,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160310152242-north-korea-military-1-assign.jpg"
+              },
+              "medium4to3": {
+                "height": 186,
+                "width": 248,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160310152242-north-korea-military-1-assign.jpg"
+              },
+              "large16to9": {
+                "height": 324,
+                "width": 576,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160310152242-north-korea-military-1-live-video.jpg"
+              },
+              "medium3to4": {
+                "height": 360,
+                "width": 270,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160310152242-north-korea-military-1-vertical-gallery.jpg"
+              },
+              "large4to3": {
+                "height": 480,
+                "width": 640,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160310152242-north-korea-military-1-video-synd-2.jpg"
+              },
+              "small16to9": {
+                "height": 144,
+                "width": 256,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160310152242-north-korea-military-1-hp-video.jpg"
+              },
+              "iPhoneTease": {
+                "height": 49,
+                "width": 87,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160310152242-north-korea-military-1-iphone-tease.jpg"
+              },
+              "exlarge16to9": {
+                "height": 619,
+                "width": 1100,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160310152242-north-korea-military-1-super-169.jpg"
+              },
+              "t1Panoramic": {
+                "height": 250,
+                "width": 670,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160310152242-north-korea-military-1-t1-panoramic.jpg"
+              },
+              "storyTablet": {
+                "height": 432,
+                "width": 768,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160310152242-north-korea-military-1-story-tablet.jpg"
+              },
+              "storyTop": {
+                "height": 360,
+                "width": 640,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160310152242-north-korea-military-1-story-top.jpg"
+              },
+              "large1to1": {
+                "height": 300,
+                "width": 300,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160310152242-north-korea-military-1-large-11.jpg"
+              },
+              "topTease": {
+                "height": 51,
+                "width": 90,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160310152242-north-korea-military-1-top-tease.jpg"
+              },
+              "small1to1": {
+                "height": 250,
+                "width": 250,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160310152242-north-korea-military-1-t1-main.jpg"
+              },
+              "t1Main": {
+                "height": 250,
+                "width": 250,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160310152242-north-korea-military-1-t1-main.jpg"
+              },
+              "medium1to1": {
+                "height": 250,
+                "width": 250,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160310152242-north-korea-military-1-t1-main.jpg"
+              },
+              "c1Main": {
+                "height": 234,
+                "width": 416,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160310152242-north-korea-military-1-c1-main.jpg"
+              },
+              "phoneGallery": {
+                "height": 320,
+                "width": 480,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160310152242-north-korea-military-1-phone-gallery.jpg"
+              },
+              "smallVideo": {
+                "height": 180,
+                "width": 320,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160310152242-north-korea-military-1-small-video.jpg"
+              },
+              "storyBody": {
+                "height": 169,
+                "width": 300,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160310152242-north-korea-military-1-story-body.jpg"
+              },
+              "medium16to9": {
+                "height": 169,
+                "width": 300,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160310152242-north-korea-military-1-story-body.jpg"
+              },
+              "t1iPhone": {
+                "height": 254,
+                "width": 320,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160310152242-north-korea-military-1-t1-iphone.jpg"
+              },
+              "large3to4": {
+                "height": 552,
+                "width": 414,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160310152242-north-korea-military-1-vertical-large-gallery.jpg"
+              }
+            }
+          },
+          {
+            "id": null,
+            "referenceId": null,
+            "type": "interactive",
+            "location": "paragraph_4A97D3B6-4618-D137-5387-6265F672D8C6",
+            "subtype": "webtag",
+            "slug": "follow @CNNOpinion",
+            "attributes": null
+          },
+          {
+            "id": "h_b31086f0b071344dc964ed5c020414c8",
+            "imageId": "h_b31086f0b071344dc964ed5c020414c8",
+            "type": "image",
+            "referenceUrl": "http://ref.hypatia.services.dmtio.net/svc/content/v2/search/collection1/id:h_b31086f0b071344dc964ed5c020414c8",
+            "referenceUri": "/svc/content/v2/search/collection1/id:h_b31086f0b071344dc964ed5c020414c8",
+            "location": "paragraph_36374D87-1A47-245E-5C3F-626555DCADD0",
+            "slug": "Flake, Gordon head shot",
+            "dam_id": "160310162024-flake-gordon-head-shot",
+            "photographer": null,
+            "caption": "Gordon Flake",
+            "cuts": {
+              "small4to3": {
+                "height": 186,
+                "width": 248,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160310162024-flake-gordon-head-shot-assign.jpg"
+              },
+              "medium4to3": {
+                "height": 186,
+                "width": 248,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160310162024-flake-gordon-head-shot-assign.jpg"
+              },
+              "large16to9": {
+                "height": 324,
+                "width": 576,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160310162024-flake-gordon-head-shot-live-video.jpg"
+              },
+              "medium3to4": {
+                "height": 360,
+                "width": 270,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160310162024-flake-gordon-head-shot-vertical-gallery.jpg"
+              },
+              "large4to3": {
+                "height": 480,
+                "width": 640,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160310162024-flake-gordon-head-shot-video-synd-2.jpg"
+              },
+              "small16to9": {
+                "height": 144,
+                "width": 256,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160310162024-flake-gordon-head-shot-hp-video.jpg"
+              },
+              "iPhoneTease": {
+                "height": 49,
+                "width": 87,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160310162024-flake-gordon-head-shot-iphone-tease.jpg"
+              },
+              "exlarge16to9": {
+                "height": 619,
+                "width": 1100,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160310162024-flake-gordon-head-shot-super-169.jpg"
+              },
+              "t1Panoramic": {
+                "height": 250,
+                "width": 670,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160310162024-flake-gordon-head-shot-t1-panoramic.jpg"
+              },
+              "storyTablet": {
+                "height": 432,
+                "width": 768,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160310162024-flake-gordon-head-shot-story-tablet.jpg"
+              },
+              "storyTop": {
+                "height": 360,
+                "width": 640,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160310162024-flake-gordon-head-shot-story-top.jpg"
+              },
+              "large1to1": {
+                "height": 300,
+                "width": 300,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160310162024-flake-gordon-head-shot-large-11.jpg"
+              },
+              "topTease": {
+                "height": 51,
+                "width": 90,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160310162024-flake-gordon-head-shot-top-tease.jpg"
+              },
+              "small1to1": {
+                "height": 250,
+                "width": 250,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160310162024-flake-gordon-head-shot-t1-main.jpg"
+              },
+              "t1Main": {
+                "height": 250,
+                "width": 250,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160310162024-flake-gordon-head-shot-t1-main.jpg"
+              },
+              "medium1to1": {
+                "height": 250,
+                "width": 250,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160310162024-flake-gordon-head-shot-t1-main.jpg"
+              },
+              "c1Main": {
+                "height": 234,
+                "width": 416,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160310162024-flake-gordon-head-shot-c1-main.jpg"
+              },
+              "phoneGallery": {
+                "height": 320,
+                "width": 480,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160310162024-flake-gordon-head-shot-phone-gallery.jpg"
+              },
+              "smallVideo": {
+                "height": 180,
+                "width": 320,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160310162024-flake-gordon-head-shot-small-video.jpg"
+              },
+              "storyBody": {
+                "height": 169,
+                "width": 300,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160310162024-flake-gordon-head-shot-story-body.jpg"
+              },
+              "medium16to9": {
+                "height": 169,
+                "width": 300,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160310162024-flake-gordon-head-shot-story-body.jpg"
+              },
+              "t1iPhone": {
+                "height": 254,
+                "width": 320,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160310162024-flake-gordon-head-shot-t1-iphone.jpg"
+              },
+              "large3to4": {
+                "height": 552,
+                "width": 414,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160310162024-flake-gordon-head-shot-vertical-large-gallery.jpg"
+              }
+            }
+          },
+          {
+            "id": "h_be549cf2a6aaffd2455b351e4d6e67f8",
+            "imageId": "h_be549cf2a6aaffd2455b351e4d6e67f8",
+            "type": "image",
+            "referenceUrl": "http://ref.hypatia.services.dmtio.net/svc/content/v2/search/collection1/id:h_be549cf2a6aaffd2455b351e4d6e67f8",
+            "referenceUri": "/svc/content/v2/search/collection1/id:h_be549cf2a6aaffd2455b351e4d6e67f8",
+            "location": "tease",
+            "slug": "north korea military 1",
+            "dam_id": "160310152242-north-korea-military-1",
+            "photographer": "ED JONES/AFP/AFP/Getty Images",
+            "caption": "A North Korean soldier salutes from a tank during a military parade past Kim Il-Sung square marking the 60th anniversary of the Korean war armistice in Pyongyang on July 27, 2013.  North Korea mounted its largest ever military parade on July 27 to mark the 60th anniversary of the armistice that ended fighting in the Korean War, displaying its long-range missiles at a ceremony presided over by leader Kim Jong-Un.  AFP PHOTO / Ed Jones        (Photo credit should read Ed Jones/AFP/Getty Images)",
+            "cuts": {
+              "small4to3": {
+                "height": 186,
+                "width": 248,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160310152242-north-korea-military-1-assign.jpg"
+              },
+              "medium4to3": {
+                "height": 186,
+                "width": 248,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160310152242-north-korea-military-1-assign.jpg"
+              },
+              "large16to9": {
+                "height": 324,
+                "width": 576,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160310152242-north-korea-military-1-live-video.jpg"
+              },
+              "medium3to4": {
+                "height": 360,
+                "width": 270,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160310152242-north-korea-military-1-vertical-gallery.jpg"
+              },
+              "large4to3": {
+                "height": 480,
+                "width": 640,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160310152242-north-korea-military-1-video-synd-2.jpg"
+              },
+              "small16to9": {
+                "height": 144,
+                "width": 256,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160310152242-north-korea-military-1-hp-video.jpg"
+              },
+              "iPhoneTease": {
+                "height": 49,
+                "width": 87,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160310152242-north-korea-military-1-iphone-tease.jpg"
+              },
+              "exlarge16to9": {
+                "height": 619,
+                "width": 1100,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160310152242-north-korea-military-1-super-169.jpg"
+              },
+              "t1Panoramic": {
+                "height": 250,
+                "width": 670,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160310152242-north-korea-military-1-t1-panoramic.jpg"
+              },
+              "storyTablet": {
+                "height": 432,
+                "width": 768,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160310152242-north-korea-military-1-story-tablet.jpg"
+              },
+              "storyTop": {
+                "height": 360,
+                "width": 640,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160310152242-north-korea-military-1-story-top.jpg"
+              },
+              "large1to1": {
+                "height": 300,
+                "width": 300,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160310152242-north-korea-military-1-large-11.jpg"
+              },
+              "topTease": {
+                "height": 51,
+                "width": 90,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160310152242-north-korea-military-1-top-tease.jpg"
+              },
+              "small1to1": {
+                "height": 250,
+                "width": 250,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160310152242-north-korea-military-1-t1-main.jpg"
+              },
+              "t1Main": {
+                "height": 250,
+                "width": 250,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160310152242-north-korea-military-1-t1-main.jpg"
+              },
+              "medium1to1": {
+                "height": 250,
+                "width": 250,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160310152242-north-korea-military-1-t1-main.jpg"
+              },
+              "c1Main": {
+                "height": 234,
+                "width": 416,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160310152242-north-korea-military-1-c1-main.jpg"
+              },
+              "phoneGallery": {
+                "height": 320,
+                "width": 480,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160310152242-north-korea-military-1-phone-gallery.jpg"
+              },
+              "smallVideo": {
+                "height": 180,
+                "width": 320,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160310152242-north-korea-military-1-small-video.jpg"
+              },
+              "storyBody": {
+                "height": 169,
+                "width": 300,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160310152242-north-korea-military-1-story-body.jpg"
+              },
+              "medium16to9": {
+                "height": 169,
+                "width": 300,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160310152242-north-korea-military-1-story-body.jpg"
+              },
+              "t1iPhone": {
+                "height": 254,
+                "width": 320,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160310152242-north-korea-military-1-t1-iphone.jpg"
+              },
+              "large3to4": {
+                "height": 552,
+                "width": 414,
+                "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/160310152242-north-korea-military-1-vertical-large-gallery.jpg"
+              }
+            }
+          }
+        ],
+        "autoZone": {
+          "auto": false
+        }
+      },
+      "parent": {
+        "id": null
+      },
+      "language": "en"
     }
   ]
 }
