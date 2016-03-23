@@ -12,14 +12,15 @@ server.route({
     path: '/',
     handler: function (request, reply) {
         var fs = require('fs');
-        var payload = JSON.parse(fs.readFileSync('./testData.json', 'utf8'));
+        var payload = JSON.parse(fs.readFileSync('./testData2gal.json', 'utf8'));
         var config = {
             'noVideos': request.params.noVideos|| 0,
-            'embedVideos': request.params.embedVideos || 1,
+            'embedVideos': request.params.embedVideos || 0,
             'removeRelateds': request.params.removeRelateds || 1,
             'preferredVideo': 'ios_1240',
             'videoCDN': 'http://ht3.cdn.turner.com/cnn/big',
             'preferredImage': 'exlarge16to9',
+            'galleryPreferredImage': 'exlarge16:9',
             'inStoryImage': 'mediumplus16to9',
             'imageCDN': 'http://i2.cdn.turner.com/cnnnext/dam/assets',
             'contentHost': 'http://www.cnn.com'

@@ -1,0 +1,1974 @@
+{
+  "status": 200,
+  "copyright": "Copyright (c) 2016 Turner Broadcasting System, Inc. All Rights Reserved.",
+  "results": 1,
+  "start": 0,
+  "links": {
+    "next": null,
+    "nextUri": null,
+    "prev": null,
+    "prevUri": null,
+    "self": "http://dev.hypatia.services.dmtio.net/svc/content/v2/search/collection1/url:http%3A%2F%2Fdev.next.cnn.com%2F2013%2F12%2F16%2Fhealth%2Fmuylv-hgyrrjv-12162013-124638%2Findex.html",
+    "selfUri": "/svc/content/v2/search/collection1/url:http%3A%2F%2Fdev.next.cnn.com%2F2013%2F12%2F16%2Fhealth%2Fmuylv-hgyrrjv-12162013-124638%2Findex.html"
+  },
+  "docs": [
+    {
+      "id": "h_2f491dbe207363fee3e8d9b997a5f8a2",
+      "sourceId": "article_968F04FB-A83E-C7F1-8B1D-FC8418C4F0D6",
+      "type": "article",
+      "dataSource": "cnn",
+      "schema": "/svc/content/v2/schema/article.schema.json",
+      "schemaVersion": 2,
+      "status": {
+        "state": "published"
+      },
+      "firstPublishDate": "2013-12-16T17:50:30Z",
+      "lastPublishDate": "2016-03-21T21:12:51Z",
+      "lastModifiedDate": "2016-03-21T21:12:16Z",
+      "slug": "Test Story SJ",
+      "url": "http://dev.next.cnn.com/2013/12/16/health/muylv-hgyrrjv-12162013-124638/index.html",
+      "headline": "Test Story SJ",
+      "title": "Test Story SJ",
+      "mobileHeadline": "Test Story SJ",
+      "socialHeadline": null,
+      "description": [
+        {
+          "id": "0",
+          "plaintext": "Some H3 Element is here ok",
+          "richtext": "Some H3 Element is here ok",
+          "elements": []
+        }
+      ],
+      "attributes": {
+        "template": "/cnn/global/cfg/common/article.json",
+        "showComments": true,
+        "inews": false,
+        "syndicationServiceUri": "/serviceFacade/channel/cms3",
+        "sms": false,
+        "showAds": "Normal",
+        "content": true,
+        "timestamp": "Update",
+        "email": false,
+        "branding": "default",
+        "syndicationTemplate": "/cnn/syndication/cfg/storybuilder/story-builder.json",
+        "summaries": true,
+        "mobile": false
+      },
+      "body": {
+        "footer": {
+          "type": "Contributors",
+          "text": "The opinions expressed in this commentary are solely those of Sean Joseph",
+          "paragraphs": [
+            {
+              "id": "0",
+              "plaintext": "The opinions expressed in this commentary are solely those of Sean Joseph",
+              "richtext": "The opinions expressed in this commentary are solely those of Sean Joseph",
+              "elements": []
+            }
+          ]
+        },
+        "notes": {
+          "www": "Ruben Navarrette Jr. is a CNN.com contributor and a nationally syndicated columnist.",
+          "intl": null,
+          "wwwText": [
+            {
+              "id": "0",
+              "plaintext": "Ruben Navarrette Jr. is a CNN.com contributor and a nationally syndicated columnist.",
+              "richtext": "Ruben Navarrette Jr. is a CNN.com contributor and a nationally syndicated columnist.",
+              "elements": []
+            }
+          ],
+          "intlText": [],
+          "type": "Editor's Note"
+        },
+        "paragraphs": [
+          {
+            "id": "paragraph_DEAA4452-3FF7-2AD0-ADDC-9B0265FCE39E",
+            "plaintext": "Some H3 Element is here ok",
+            "richtext": "Some H3 Element is here ok",
+            "elements": []
+          },
+          {
+            "id": "paragraph_A8EA1F56-7D71-CB6B-3FE4-9B025BA6633E",
+            "plaintext": null,
+            "richtext": null,
+            "elements": []
+          },
+          {
+            "id": "paragraph_D689403F-217B-4B41-D3BF-9B040D4424F6",
+            "plaintext": null,
+            "richtext": null,
+            "elements": [
+              {
+                "type": "handle",
+                "attributes": {
+                  "appearance": "standard",
+                  "description": "Pull Quote 5152012 6435",
+                  "caption": "",
+                  "imageOid": null
+                },
+                "target": {
+                  "type": "interactive",
+                  "subtype": "pullquote",
+                  "referenceUrl": null,
+                  "referenceUri": null
+                }
+              }
+            ]
+          },
+          {
+            "id": "paragraph_D92A2DC7-8F4E-7FE2-B1F7-9B040E03EFB6",
+            "plaintext": null,
+            "richtext": null,
+            "elements": []
+          },
+          {
+            "id": "paragraph_40F1AEBE-524C-F2FF-3971-FCC2B3858D8C",
+            "plaintext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "richtext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_40F1AEBE-524C-F2FF-3971-FCC2B3858D8C",
+            "plaintext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "richtext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_40F1AEBE-524C-F2FF-3971-FCC2B3858D8C",
+            "plaintext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "richtext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_40F1AEBE-524C-F2FF-3971-FCC2B3858D8C",
+            "plaintext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "richtext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_40F1AEBE-524C-F2FF-3971-FCC2B3858D8C",
+            "plaintext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "richtext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_40F1AEBE-524C-F2FF-3971-FCC2B3858D8C",
+            "plaintext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "richtext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_40F1AEBE-524C-F2FF-3971-FCC2B3858D8C",
+            "plaintext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "richtext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_40F1AEBE-524C-F2FF-3971-FCC2B3858D8C",
+            "plaintext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "richtext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_40F1AEBE-524C-F2FF-3971-FCC2B3858D8C",
+            "plaintext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "richtext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_40F1AEBE-524C-F2FF-3971-FCC2B3858D8C",
+            "plaintext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "richtext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_40F1AEBE-524C-F2FF-3971-FCC2B3858D8C",
+            "plaintext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "richtext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_40F1AEBE-524C-F2FF-3971-FCC2B3858D8C",
+            "plaintext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "richtext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_40F1AEBE-524C-F2FF-3971-FCC2B3858D8C",
+            "plaintext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "richtext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_40F1AEBE-524C-F2FF-3971-FCC2B3858D8C",
+            "plaintext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "richtext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_40F1AEBE-524C-F2FF-3971-FCC2B3858D8C",
+            "plaintext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "richtext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_40F1AEBE-524C-F2FF-3971-FCC2B3858D8C",
+            "plaintext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "richtext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_40F1AEBE-524C-F2FF-3971-FCC2B3858D8C",
+            "plaintext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "richtext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_40F1AEBE-524C-F2FF-3971-FCC2B3858D8C",
+            "plaintext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "richtext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_40F1AEBE-524C-F2FF-3971-FCC2B3858D8C",
+            "plaintext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "richtext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_40F1AEBE-524C-F2FF-3971-FCC2B3858D8C",
+            "plaintext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "richtext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_40F1AEBE-524C-F2FF-3971-FCC2B3858D8C",
+            "plaintext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "richtext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_40F1AEBE-524C-F2FF-3971-FCC2B3858D8C",
+            "plaintext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "richtext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_40F1AEBE-524C-F2FF-3971-FCC2B3858D8C",
+            "plaintext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "richtext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_40F1AEBE-524C-F2FF-3971-FCC2B3858D8C",
+            "plaintext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "richtext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_40F1AEBE-524C-F2FF-3971-FCC2B3858D8C",
+            "plaintext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "richtext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_40F1AEBE-524C-F2FF-3971-FCC2B3858D8C",
+            "plaintext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "richtext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_40F1AEBE-524C-F2FF-3971-FCC2B3858D8C",
+            "plaintext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "richtext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_40F1AEBE-524C-F2FF-3971-FCC2B3858D8C",
+            "plaintext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "richtext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_40F1AEBE-524C-F2FF-3971-FCC2B3858D8C",
+            "plaintext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "richtext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_40F1AEBE-524C-F2FF-3971-FCC2B3858D8C",
+            "plaintext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "richtext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_40F1AEBE-524C-F2FF-3971-FCC2B3858D8C",
+            "plaintext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "richtext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_40F1AEBE-524C-F2FF-3971-FCC2B3858D8C",
+            "plaintext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "richtext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_40F1AEBE-524C-F2FF-3971-FCC2B3858D8C",
+            "plaintext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "richtext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_40F1AEBE-524C-F2FF-3971-FCC2B3858D8C",
+            "plaintext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "richtext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_40F1AEBE-524C-F2FF-3971-FCC2B3858D8C",
+            "plaintext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "richtext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_40F1AEBE-524C-F2FF-3971-FCC2B3858D8C",
+            "plaintext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "richtext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_40F1AEBE-524C-F2FF-3971-FCC2B3858D8C",
+            "plaintext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "richtext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_40F1AEBE-524C-F2FF-3971-FCC2B3858D8C",
+            "plaintext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "richtext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_40F1AEBE-524C-F2FF-3971-FCC2B3858D8C",
+            "plaintext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "richtext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_40F1AEBE-524C-F2FF-3971-FCC2B3858D8C",
+            "plaintext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "richtext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_40F1AEBE-524C-F2FF-3971-FCC2B3858D8C",
+            "plaintext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "richtext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_40F1AEBE-524C-F2FF-3971-FCC2B3858D8C",
+            "plaintext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "richtext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_40F1AEBE-524C-F2FF-3971-FCC2B3858D8C",
+            "plaintext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "richtext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_40F1AEBE-524C-F2FF-3971-FCC2B3858D8C",
+            "plaintext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "richtext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_40F1AEBE-524C-F2FF-3971-FCC2B3858D8C",
+            "plaintext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "richtext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_40F1AEBE-524C-F2FF-3971-FCC2B3858D8C",
+            "plaintext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "richtext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_40F1AEBE-524C-F2FF-3971-FCC2B3858D8C",
+            "plaintext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "richtext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_40F1AEBE-524C-F2FF-3971-FCC2B3858D8C",
+            "plaintext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "richtext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_40F1AEBE-524C-F2FF-3971-FCC2B3858D8C",
+            "plaintext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "richtext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_40F1AEBE-524C-F2FF-3971-FCC2B3858D8C",
+            "plaintext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "richtext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_40F1AEBE-524C-F2FF-3971-FCC2B3858D8C",
+            "plaintext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "richtext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_40F1AEBE-524C-F2FF-3971-FCC2B3858D8C",
+            "plaintext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "richtext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_40F1AEBE-524C-F2FF-3971-FCC2B3858D8C",
+            "plaintext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "richtext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_40F1AEBE-524C-F2FF-3971-FCC2B3858D8C",
+            "plaintext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "richtext": "One proposed solution that didn't go anywhere was the DREAM Act, a bill that politicians passed around like a hot potato for more than a decade. It would offer legal status and a pathway to citizenship to anyone who goes to college or joins the military.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_0893A0E7-6127-6368-E6CA-FCC2B38671CD",
+            "plaintext": "The good news is that there was bipartisan support; the last time it was put to a vote, in December 2010, a slew of Senate Democrats voted for it, but so did three Senate Republicans -- Lisa Murkowski of Alaska, Richard Lugar of Indiana and Bob Bennett of Utah. The bad news is that there is bipartisan opposition; a slew of Republicans opposed the legislation, but so did five Senate Democrats -- Jon Tester and Max Baucus of Montana, Kay Hagan of North Carolina, Ben Nelson of Nebraska and Mark Pryor of Arkansas.",
+            "richtext": "The good news is that there was bipartisan support; the last time it was put to a vote, in December 2010, a slew of Senate Democrats voted for it, but so did three Senate Republicans -- Lisa Murkowski of Alaska, Richard Lugar of Indiana and Bob Bennett of Utah. The bad news is that there is bipartisan opposition; a slew of Republicans opposed the legislation, but so did five Senate Democrats -- Jon Tester and Max Baucus of Montana, Kay Hagan of North Carolina, Ben Nelson of Nebraska and Mark Pryor of Arkansas.",
+            "elements": [
+              {
+                "type": "handle",
+                "attributes": {
+                  "appearance": "standard",
+                  "description": "cruise critic reader awards",
+                  "caption": "Disney Fantasy1345  updated  Ë",
+                  "imageOid": "image_9525F35E-A9DC-7DFF-F608-D0C3044652A2"
+                },
+                "target": {
+                  "type": "gallery",
+                  "subtype": null,
+                  "referenceUrl": "http://dev.hypatia.services.dmtio.net/svc/content/v2/search/collection1/id:h_2439855b1c1db9aff82fc03ae96ff73c",
+                  "referenceUri": "/svc/content/v2/search/collection1/id:h_2439855b1c1db9aff82fc03ae96ff73c"
+                }
+              }
+            ]
+          },
+          {
+            "id": "paragraph_047C2CAC-3FFA-45BD-1BB7-9ADC2859C2CC",
+            "plaintext": null,
+            "richtext": null,
+            "elements": []
+          },
+          {
+            "id": "paragraph_7A420337-1B58-DCF9-B27C-9ADC29921999",
+            "plaintext": null,
+            "richtext": null,
+            "elements": [
+              {
+                "type": "embed",
+                "attributes": {
+                  "description": "some facebook embed",
+                  "type": "facebook",
+                  "url": "https://www.facebook.com/photo.php?fbid=10209409643984355&set=a.4643438130260.2191723.1422318728&type=3&theater",
+                  "embedStrategy": "legacy"
+                }
+              }
+            ]
+          },
+          {
+            "id": "paragraph_60D97EBC-0AEF-6900-9427-FCC2B386C92C",
+            "plaintext": "Clearly we need a new approach. Enter Rubio. The Cuban-American GOP rock star and potential GOP vice presidential nominee is floating the idea of a modified DREAM Act that would keep undocumented immigrant students from being deported by giving them legal status in the form of a student visa followed by a work visa.",
+            "richtext": "Clearly we need a new approach. Enter Rubio. The Cuban-American GOP rock star and potential GOP vice presidential nominee is floating the idea of a modified DREAM Act that would keep undocumented immigrant students from being deported by giving them legal status in the form of a student visa followed by a work visa.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_BFAC9CA9-6FAB-E1AC-19FC-FCC2B386B0C3",
+            "plaintext": "The idea was originally shared with me about five months ago by Sen. Kay Bailey Hutchison, R-Texas, who, along with her colleague, Sen. Jon Kyl, R-Arizona, was eager to find a way to break the stalemate over the DREAM Act and help get these young people out of legal limbo and on with their lives. ",
+            "richtext": "The idea was originally shared with me about five months ago by Sen. Kay Bailey Hutchison, R-Texas, who, along with her colleague, Sen. Jon Kyl, R-Arizona, was eager to find a way to break the stalemate over the DREAM Act and help get these young people out of legal limbo and on with their lives. ",
+            "elements": []
+          },
+          {
+            "id": "paragraph_596F2BC0-63BB-1DF6-F84E-9ADEFF6ED43D",
+            "plaintext": null,
+            "richtext": null,
+            "elements": []
+          },
+          {
+            "id": "paragraph_0800F91F-F4CE-13F1-A18D-9ADF005EE2F8",
+            "plaintext": null,
+            "richtext": null,
+            "elements": [
+              {
+                "type": "embed",
+                "attributes": {
+                  "description": "Some vine embed",
+                  "type": "vine",
+                  "url": "https://vine.co/v/OnwL5ltm3ep/embed/simple",
+                  "embedStrategy": "legacy"
+                }
+              }
+            ]
+          },
+          {
+            "id": "paragraph_CC59BA93-7917-A2EE-50EB-FCC2B386331D",
+            "plaintext": "Now Hutchison and Kyl have faded to the background, and Rubio is shopping the idea. No formal proposal has been released, but that hasn't stopped pundits and politicos from voicing their opinions about the concept.",
+            "richtext": "Now Hutchison and Kyl have faded to the background, and Rubio is shopping the idea. No formal proposal has been released, but that hasn't stopped pundits and politicos from voicing their opinions about the concept.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_9A04EAA4-B891-BB83-3475-FCC2B386AA54",
+            "plaintext": "Under the proposal, there is no yellow brick road to citizenship, but nor is there a roadblock. The young people would just have to find their own way there, if they ecven wanted to be U.S. citizens. Not every immigrant does.",
+            "richtext": "Under the proposal, there is no yellow brick road to citizenship, but nor is there a roadblock. The young people would just have to find their own way there, if they ecven wanted to be U.S. citizens. Not every immigrant does.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_A30A20C9-8341-1FAA-FD68-FCC2B38651E6",
+            "plaintext": "You know who does want to give these students automatic citizenship? Democrats, who are salivating over the prospect of perhaps hundreds of thousands of new voters with a grudge against Republicans. And you know who is dead-set against giving them citizenship? Republicans, who want to avoid the ire of these newly minted voters.",
+            "richtext": "You know who does want to give these students automatic citizenship? Democrats, who are salivating over the prospect of perhaps hundreds of thousands of new voters with a grudge against Republicans. And you know who is dead-set against giving them citizenship? Republicans, who want to avoid the ire of these newly minted voters.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_54DE4284-1593-249B-909C-9AE12C2241DA",
+            "plaintext": null,
+            "richtext": null,
+            "elements": []
+          },
+          {
+            "id": "paragraph_4E222264-92BD-969D-9E7B-9AE12D0C6CC7",
+            "plaintext": null,
+            "richtext": null,
+            "elements": [
+              {
+                "type": "embed",
+                "attributes": {
+                  "description": "some youtube embed",
+                  "type": "youtube",
+                  "url": "https://www.youtube.com/embed/_FAuKK0XFJU",
+                  "embedStrategy": "legacy"
+                }
+              }
+            ]
+          },
+          {
+            "id": "paragraph_CB5D165A-3DFA-BFE4-F0BE-FCC2B386D81E",
+            "plaintext": "There's a catch. Democrats may think these kids are adorable, but they don't want to adopt them and become known as the \"illegal immigrant party.\" I suspect that's the real reason five Democrats helped kill the DREAM Act.",
+            "richtext": "There's a catch. Democrats may think these kids are adorable, but they don't want to adopt them and become known as the \"illegal immigrant party.\" I suspect that's the real reason five Democrats helped kill the DREAM Act.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_0C23AD71-5690-70BE-AEA9-FCC2B386F6A4",
+            "plaintext": "Follow @CNN Opinion on Twitter and at Facebook/CNNOpinionhttp://www.facebook.com/CNNOpinion",
+            "richtext": "Follow @CNN Opinion on Twitter and at Facebook/CNNOpinionhttp://www.facebook.com/CNNOpinion",
+            "elements": []
+          },
+          {
+            "id": "paragraph_EE6DCA2F-B6DD-793A-BBEB-FCC2B3897A76",
+            "plaintext": "The fact that Rubio is now attached to the proposal is a mixed blessing. Rubio might have enough leverage within his party to persuade some Republicans who voted against the old DREAM Act to support DREAM Act 2.0. The bad news is that Democrats are afraid of Rubio, and many of them have no interest in supporting any bill that makes the rising star look good.",
+            "richtext": "The fact that Rubio is now attached to the proposal is a mixed blessing. Rubio might have enough leverage within his party to persuade some Republicans who voted against the old DREAM Act to support DREAM Act 2.0. The bad news is that Democrats are afraid of Rubio, and many of them have no interest in supporting any bill that makes the rising star look good.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_02F63C53-C88F-48A1-BBAD-FCC2B389FB48",
+            "plaintext": "Given all that, I'll bet the Latino \"hangout\" on the DREAM Act was not exactly an event that was officially sanctioned by either party. So what? That's a good thing. This is an encouraging new model. Let's hope we see more of these efforts to informally reach across party lines and forge bipartisan solutions on a variety of public policy issues. ",
+            "richtext": "Given all that, I'll bet the Latino \"hangout\" on the DREAM Act was not exactly an event that was officially sanctioned by either party. So what? That's a good thing. This is an encouraging new model. Let's hope we see more of these efforts to informally reach across party lines and forge bipartisan solutions on a variety of public policy issues. ",
+            "elements": [
+              {
+                "type": "handle",
+                "attributes": {
+                  "playVidTargetOid": null,
+                  "appearance": "expandable",
+                  "playVidLiveStream": "",
+                  "description": "exp test-style-video-01",
+                  "playVidType": "",
+                  "playVidUrl": "",
+                  "caption": "Test - Style Video Headline",
+                  "imageOid": "image_D1676377-B09A-3897-8F0B-26089E50B6DB"
+                },
+                "target": {
+                  "type": "video",
+                  "subtype": null,
+                  "referenceUrl": "http://dev.hypatia.services.dmtio.net/svc/content/v2/search/collection1/id:h_f013a1a0db5cf825fa7078da78d9b310",
+                  "referenceUri": "/svc/content/v2/search/collection1/id:h_f013a1a0db5cf825fa7078da78d9b310"
+                }
+              }
+            ]
+          },
+          {
+            "id": "paragraph_1E49854B-D540-9404-A197-FCC2B389D37B",
+            "plaintext": "Providing legal status to undocumented college students and members of the armed forces is one issue where the partisan lines are blurred and the politics are very complicated. There are no good guys and bad guys, just both parties pushing their own interests without caring   about what happens to a bunch of undocumented students.         ",
+            "richtext": "Providing legal status to undocumented college students and members of the armed forces is one issue where the partisan lines are blurred and the politics are very complicated. There are no good guys and bad guys, just both parties pushing their own interests without caring   about what happens to a bunch of undocumented students.         ",
+            "elements": []
+          },
+          {
+            "id": "paragraph_C840EFCE-8A55-0954-874F-FCC2B3897120",
+            "plaintext": "Someone needs to care. It seems these four lawmakers do. What Rubio has in mind might not be perfect, but it's the only entree on the menu. If the Latino Democrats think they can make it better, they should make suggestions. Then both sides should go back to their respective parties and pressure their colleagues to come onboard.",
+            "richtext": "Someone needs to care. It seems these four lawmakers do. What Rubio has in mind might not be perfect, but it's the only entree on the menu. If the Latino Democrats think they can make it better, they should make suggestions. Then both sides should go back to their respective parties and pressure their colleagues to come onboard.",
+            "elements": []
+          },
+          {
+            "id": "paragraph_3DFF9FA7-EFB5-C7E4-9AF0-9AE3E317CDDE",
+            "plaintext": null,
+            "richtext": null,
+            "elements": []
+          },
+          {
+            "id": "paragraph_352B09B9-EA56-A014-509F-9AE3E3D82CBC",
+            "plaintext": null,
+            "richtext": null,
+            "elements": [
+              {
+                "type": "handle",
+                "attributes": {
+                  "appearance": "standard",
+                  "description": "Jellyfish",
+                  "targetLinkUri": "",
+                  "caption": "",
+                  "targetLinkType": "",
+                  "targetLinkOid": null
+                },
+                "target": {
+                  "type": "image",
+                  "subtype": null,
+                  "referenceUrl": "http://dev.hypatia.services.dmtio.net/svc/content/v2/search/collection1/id:h_944ff1973e0067b64f1804da6962c386",
+                  "referenceUri": "/svc/content/v2/search/collection1/id:h_944ff1973e0067b64f1804da6962c386"
+                }
+              }
+            ]
+          },
+          {
+            "id": "paragraph_9F91CB6B-9B20-A79D-9496-FCC2B3896FDA",
+            "plaintext": "It matters to the deliberations that these lawmakers are all Latino. Regardless of party, whether they realize it or not, they have a natural kinship. A Republican like Rubio has a cultural connection to Democrats like Gutierrez, Menendez and Gonzales. That is something to build on. These guys might argue when they talk politics, but at least they can argue in Spanish.",
+            "richtext": "It matters to the deliberations that these lawmakers are all Latino. Regardless of party, whether they realize it or not, they have a natural kinship. A Republican like Rubio has a cultural connection to Democrats like Gutierrez, Menendez and Gonzales. That is something to build on. These guys might argue when they talk politics, but at least they can argue in Spanish.",
+            "elements": []
+          }
+        ],
+        "wordCount": 748
+      },
+      "source": "CNN",
+      "byline": "Sean Joseph., CNN Contributor",
+      "branding": "default",
+      "storyType": "Story",
+      "section": "politics",
+      "location": null,
+      "highlights": [
+        {
+          "id": "0",
+          "plaintext": "Latino legislators met recently to seek progress on status of \"DREAM'ers\"",
+          "richtext": "Latino legislators met recently to seek progress on status of \"DREAM'ers\"",
+          "elements": []
+        },
+        {
+          "id": "1",
+          "plaintext": "Ruben Navarrette says it's encouraging that they're talking about a compromise",
+          "richtext": "Ruben Navarrette says it's encouraging that they're talking about a compromise",
+          "elements": []
+        },
+        {
+          "id": "2",
+          "plaintext": "He asks: Will political parties let that happen, or kill it to preserve a campaign issue?",
+          "richtext": "He asks: Will political parties let that happen, or kill it to preserve a campaign issue?",
+          "elements": []
+        },
+        {
+          "id": "3",
+          "plaintext": "Navarrette: Marco Rubio's proposal isn't perfect but it does show progress",
+          "richtext": "Navarrette: Marco Rubio's proposal isn't perfect but it does show progress",
+          "elements": []
+        }
+      ],
+      "partner": null,
+      "smsbody": "Some H3 Element is here ok",
+      "contributors": [
+        {
+          "firstName": "Joe",
+          "middleName": null,
+          "lastName": "Blake",
+          "fullName": "Joe Blake"
+        },
+        {
+          "firstName": "Michaela",
+          "middleName": null,
+          "lastName": "Pereira",
+          "fullName": "Michaela Pereira"
+        }
+      ],
+      "topics": [
+        {
+          "label": "Government and public administration",
+          "class": "Subject",
+          "id": "c753c773-f66f-52cb-ba12-1bdf4573b592",
+          "topicID": "7WN",
+          "confidenceScore": 0,
+          "leafNode": false
+        },
+        {
+          "label": "Government bodies and offices",
+          "class": "Subject",
+          "id": "d73e719e-040c-4840-a2a6-c04b8310dfcb",
+          "topicID": "DG2",
+          "confidenceScore": 0,
+          "leafNode": false
+        },
+        {
+          "label": "Immigration",
+          "class": "Subject",
+          "id": "3101ac61-5e6c-5472-8de3-c49654a2db03",
+          "topicID": "84B",
+          "confidenceScore": 0,
+          "leafNode": false
+        },
+        {
+          "label": "Immigration, citizenship and displacement",
+          "class": "Subject",
+          "id": "2f999c15-7293-52a7-a0ee-e8b658c08137",
+          "topicID": "42R",
+          "confidenceScore": 0,
+          "leafNode": false
+        },
+        {
+          "label": "International relations and national security",
+          "class": "Subject",
+          "id": "84651cf3-02b9-4e37-8627-dc8b96235ba7",
+          "topicID": "350",
+          "confidenceScore": 0,
+          "leafNode": false
+        },
+        {
+          "label": "Marco Rubio",
+          "class": "Person",
+          "id": "a3446323-a5a8-4d70-8d98-15337661a4e1",
+          "topicID": "BD",
+          "confidenceScore": 0,
+          "leafNode": true
+        },
+        {
+          "label": "Political Figures - US",
+          "class": "Person",
+          "id": "ba65a338-c7ea-48df-a75f-f66b59576260",
+          "topicID": "BPP",
+          "confidenceScore": 0,
+          "leafNode": false
+        },
+        {
+          "label": "Politics",
+          "class": "Subject",
+          "id": "29e2ee2a-6115-4a69-ae08-7518c546b70c",
+          "topicID": "DHX",
+          "confidenceScore": 0,
+          "leafNode": false
+        },
+        {
+          "label": "US Congress",
+          "class": "Organization",
+          "id": "16b7071b-5797-5d75-bae2-8b069ab074e2",
+          "topicID": "7JY",
+          "confidenceScore": 0,
+          "leafNode": false
+        },
+        {
+          "label": "US Democratic Party",
+          "class": "Organization",
+          "id": "0573e95e-2332-551e-a3a7-cacaeac0d4ad",
+          "topicID": "7JK",
+          "confidenceScore": 0,
+          "leafNode": true
+        },
+        {
+          "label": "US federal government",
+          "class": "Subject",
+          "id": "7a9e5fff-f987-5dc5-8ce2-17c778f6082f",
+          "topicID": "5G8",
+          "confidenceScore": 0,
+          "leafNode": false
+        },
+        {
+          "label": "US political parties",
+          "class": "Organization",
+          "id": "90c9652f-0401-5e1a-a95c-af91c8a8e89a",
+          "topicID": "5FX",
+          "confidenceScore": 0,
+          "leafNode": false
+        },
+        {
+          "label": "US Republican Party",
+          "class": "Organization",
+          "id": "fbbdeae1-93b0-523c-aedc-2df20a8f61ed",
+          "topicID": "5FW",
+          "confidenceScore": 0,
+          "leafNode": true
+        },
+        {
+          "label": "US Senate",
+          "class": "Organization",
+          "id": "38056b69-4860-58f2-9b95-3b1d18203ec0",
+          "topicID": "5FY",
+          "confidenceScore": 0,
+          "leafNode": true
+        },
+        {
+          "label": "2016 Presidential election",
+          "class": "Storyline",
+          "id": "2cb4909b-03b6-41f7-a4f1-1b21d9e3b947",
+          "topicID": "JFF",
+          "confidenceScore": 0.75,
+          "leafNode": true
+        },
+        {
+          "label": "Citizenship and naturalization",
+          "class": "Subject",
+          "id": "2aaccc23-8c10-5e22-ae2f-569083615dce",
+          "topicID": "8DQ",
+          "confidenceScore": 0.48,
+          "leafNode": true
+        },
+        {
+          "label": "Elections and campaigns",
+          "class": "Subject",
+          "id": "bd0bf3d7-f33b-4c20-812f-f9ad2b527846",
+          "topicID": "DJ9",
+          "confidenceScore": 0.75,
+          "leafNode": false
+        },
+        {
+          "label": "Political candidates",
+          "class": "Subject",
+          "id": "9c4a4f95-d8bd-4fd3-b3f4-8f9d2fe6b699",
+          "topicID": "DJ4",
+          "confidenceScore": 0.75,
+          "leafNode": false
+        },
+        {
+          "label": "US Federal elections",
+          "class": "Subject",
+          "id": "43441895-bdab-5ff0-86d1-7a9b975412ef",
+          "topicID": "5G1",
+          "confidenceScore": 0.75,
+          "leafNode": false
+        },
+        {
+          "label": "US Presidential elections",
+          "class": "Subject",
+          "id": "c9fff274-7a18-54fb-a6c9-5cf09924b70e",
+          "topicID": "91X",
+          "confidenceScore": 0.75,
+          "leafNode": true
+        }
+      ],
+      "relatedMedia": {
+        "hasImage": true,
+        "hasGallery": true,
+        "hasVideo": true,
+        "hasVideoCollection": false,
+        "hasInteractive": true,
+        "media": [
+          {
+            "id": "h_f013a1a0db5cf825fa7078da78d9b310",
+            "referenceId": "h_f013a1a0db5cf825fa7078da78d9b310",
+            "type": "reference",
+            "location": "paragraph_02F63C53-C88F-48A1-BBAD-FCC2B389FB48",
+            "headline": "Test - Style Video Headline",
+            "description": [],
+            "url": "http://dev.next.cnn.com/videos/design/2015/06/24/exp-test-style-video-01.cnn",
+            "cvpXmlUrl": "http://dev.next.cnn.com/video/data/3.0/video/design/2015/06/24/exp-test-style-video-01.cnn/index.xml",
+            "autoplay": false,
+            "duration": null,
+            "referenceType": "video",
+            "referenceUrl": "http://dev.hypatia.services.dmtio.net/svc/content/v2/search/collection1/id:h_f013a1a0db5cf825fa7078da78d9b310",
+            "referenceUri": "/svc/content/v2/search/collection1/id:h_f013a1a0db5cf825fa7078da78d9b310",
+            "cuts": {
+              "small4to3": {
+                "height": 186,
+                "width": 248,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/150624104615-exp-test-style-video-01-00002001-assign.jpg"
+              },
+              "medium4to3": {
+                "height": 186,
+                "width": 248,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/150624104615-exp-test-style-video-01-00002001-assign.jpg"
+              },
+              "large16to9": {
+                "height": 324,
+                "width": 576,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/150624104615-exp-test-style-video-01-00002001-live-video.jpg"
+              },
+              "medium3to4": {
+                "height": 360,
+                "width": 270,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/150624104615-exp-test-style-video-01-00002001-vertical-gallery.jpg"
+              },
+              "large4to3": {
+                "height": 480,
+                "width": 640,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/150624104615-exp-test-style-video-01-00002001-video-synd-2.jpg"
+              },
+              "small16to9": {
+                "height": 144,
+                "width": 256,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/150624104615-exp-test-style-video-01-00002001-hp-video.jpg"
+              },
+              "iPhoneTease": {
+                "height": 49,
+                "width": 87,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/150624104615-exp-test-style-video-01-00002001-iphone-tease.jpg"
+              },
+              "exlarge16to9": {
+                "height": 619,
+                "width": 1100,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/150624104615-exp-test-style-video-01-00002001-super-169.jpg"
+              },
+              "t1Panoramic": {
+                "height": 250,
+                "width": 670,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/150624104615-exp-test-style-video-01-00002001-t1-panoramic.jpg"
+              },
+              "storyTablet": {
+                "height": 432,
+                "width": 768,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/150624104615-exp-test-style-video-01-00002001-story-tablet.jpg"
+              },
+              "large1to1": {
+                "height": 300,
+                "width": 300,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/150624104615-exp-test-style-video-01-00002001-large-11.jpg"
+              },
+              "storyTop": {
+                "height": 360,
+                "width": 640,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/150624104615-exp-test-style-video-01-00002001-story-top.jpg"
+              },
+              "topTease": {
+                "height": 51,
+                "width": 90,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/150624104615-exp-test-style-video-01-00002001-top-tease.jpg"
+              },
+              "small1to1": {
+                "height": 250,
+                "width": 250,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/150624104615-exp-test-style-video-01-00002001-t1-main.jpg"
+              },
+              "t1Main": {
+                "height": 250,
+                "width": 250,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/150624104615-exp-test-style-video-01-00002001-t1-main.jpg"
+              },
+              "medium1to1": {
+                "height": 250,
+                "width": 250,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/150624104615-exp-test-style-video-01-00002001-t1-main.jpg"
+              },
+              "c1Main": {
+                "height": 234,
+                "width": 416,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/150624104615-exp-test-style-video-01-00002001-c1-main.jpg"
+              },
+              "phoneGallery": {
+                "height": 320,
+                "width": 480,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/150624104615-exp-test-style-video-01-00002001-phone-gallery.jpg"
+              },
+              "smallVideo": {
+                "height": 180,
+                "width": 320,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/150624104615-exp-test-style-video-01-00002001-small-video.jpg"
+              },
+              "storyBody": {
+                "height": 169,
+                "width": 300,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/150624104615-exp-test-style-video-01-00002001-story-body.jpg"
+              },
+              "medium16to9": {
+                "height": 169,
+                "width": 300,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/150624104615-exp-test-style-video-01-00002001-story-body.jpg"
+              },
+              "t1iPhone": {
+                "height": 254,
+                "width": 320,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/150624104615-exp-test-style-video-01-00002001-t1-iphone.jpg"
+              },
+              "large3to4": {
+                "height": 552,
+                "width": 414,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/150624104615-exp-test-style-video-01-00002001-vertical-large-gallery.jpg"
+              }
+            },
+            "auxiliaryText": null
+          },
+          {
+            "id": null,
+            "referenceId": null,
+            "type": "interactive",
+            "location": "paragraph_D689403F-217B-4B41-D3BF-9B040D4424F6",
+            "subtype": "pullquote",
+            "slug": "Pull Quote 5152012 6435",
+            "attributes": {
+              "quote": "pullquote wxocehirbv iajfmvcnifn wgnsjzbzx ltyupdqczg",
+              "author": "Ubiaeinofi Nvwbdbvthqwdbe",
+              "showQuotes": true
+            }
+          },
+          {
+            "id": "h_125f6f3ffe0a724ca1b5b31c4c51ede6",
+            "referenceId": "h_125f6f3ffe0a724ca1b5b31c4c51ede6",
+            "type": "reference",
+            "location": "pageTop",
+            "headline": "Video Test",
+            "description": [],
+            "url": "http://dev.next.cnn.com/videos/video-landing/2015/01/13/exp-video-test.cnn",
+            "cvpXmlUrl": "http://dev.next.cnn.com/video/data/3.0/video/video-landing/2015/01/13/exp-video-test.cnn/index.xml",
+            "autoplay": false,
+            "duration": null,
+            "referenceType": "video",
+            "referenceUrl": "http://dev.hypatia.services.dmtio.net/svc/content/v2/search/collection1/id:h_125f6f3ffe0a724ca1b5b31c4c51ede6",
+            "referenceUri": "/svc/content/v2/search/collection1/id:h_125f6f3ffe0a724ca1b5b31c4c51ede6",
+            "cuts": {
+              "small4to3": {
+                "height": 186,
+                "width": 248,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/150113110828-exp-video-test-00002001-assign.jpg"
+              },
+              "medium4to3": {
+                "height": 186,
+                "width": 248,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/150113110828-exp-video-test-00002001-assign.jpg"
+              },
+              "large16to9": {
+                "height": 324,
+                "width": 576,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/150113110828-exp-video-test-00002001-live-video.jpg"
+              },
+              "medium3to4": {
+                "height": 360,
+                "width": 270,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/150113110828-exp-video-test-00002001-vertical-gallery.jpg"
+              },
+              "large4to3": {
+                "height": 480,
+                "width": 640,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/150113110828-exp-video-test-00002001-video-synd-2.jpg"
+              },
+              "small16to9": {
+                "height": 144,
+                "width": 256,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/150113110828-exp-video-test-00002001-hp-video.jpg"
+              },
+              "iPhoneTease": {
+                "height": 49,
+                "width": 87,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/150113110828-exp-video-test-00002001-iphone-tease.jpg"
+              },
+              "exlarge16to9": {
+                "height": 619,
+                "width": 1100,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/150113110828-exp-video-test-00002001-super-169.jpg"
+              },
+              "t1Panoramic": {
+                "height": 250,
+                "width": 670,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/150113110828-exp-video-test-00002001-t1-panoramic.jpg"
+              },
+              "storyTablet": {
+                "height": 432,
+                "width": 768,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/150113110828-exp-video-test-00002001-story-tablet.jpg"
+              },
+              "storyTop": {
+                "height": 360,
+                "width": 640,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/150113110828-exp-video-test-00002001-story-top.jpg"
+              },
+              "large1to1": {
+                "height": 300,
+                "width": 300,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/150113110828-exp-video-test-00002001-large-11.jpg"
+              },
+              "topTease": {
+                "height": 51,
+                "width": 90,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/150113110828-exp-video-test-00002001-top-tease.jpg"
+              },
+              "small1to1": {
+                "height": 250,
+                "width": 250,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/150113110828-exp-video-test-00002001-t1-main.jpg"
+              },
+              "t1Main": {
+                "height": 250,
+                "width": 250,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/150113110828-exp-video-test-00002001-t1-main.jpg"
+              },
+              "medium1to1": {
+                "height": 250,
+                "width": 250,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/150113110828-exp-video-test-00002001-t1-main.jpg"
+              },
+              "c1Main": {
+                "height": 234,
+                "width": 416,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/150113110828-exp-video-test-00002001-c1-main.jpg"
+              },
+              "phoneGallery": {
+                "height": 320,
+                "width": 480,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/150113110828-exp-video-test-00002001-phone-gallery.jpg"
+              },
+              "smallVideo": {
+                "height": 180,
+                "width": 320,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/150113110828-exp-video-test-00002001-small-video.jpg"
+              },
+              "storyBody": {
+                "height": 169,
+                "width": 300,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/150113110828-exp-video-test-00002001-story-body.jpg"
+              },
+              "medium16to9": {
+                "height": 169,
+                "width": 300,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/150113110828-exp-video-test-00002001-story-body.jpg"
+              },
+              "t1iPhone": {
+                "height": 254,
+                "width": 320,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/150113110828-exp-video-test-00002001-t1-iphone.jpg"
+              },
+              "large3to4": {
+                "height": 552,
+                "width": 414,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/150113110828-exp-video-test-00002001-vertical-large-gallery.jpg"
+              }
+            },
+            "auxiliaryText": null,
+            "data": {
+               "_id": "video_002E5200-E5C0-15A9-AD55-15BEBEADE454",
+               "_rev": "14-8766136fc156cffd38c3d602f14dbae7",
+               "templateDirectives": {
+                   "template": "/cnn/video/cfg/video-root.json",
+                   "allowEmbed": "yes",
+                   "series": "cup",
+                   "isThisVideoAdSensitive": "no",
+                   "mediasource": false,
+                   "resyndicateOnRepublish": "yes",
+                   "includeInLatestVideo": "yes",
+                   "showAds": "yes",
+                   "content": true,
+                   "twitter": false,
+                   "overrideAd": "no",
+                   "email": false,
+                   "priority": "no",
+                   "syndication": true,
+                   "youtube": false,
+                   "summaries": true,
+                   "automate": "yes",
+                   "spotlight": "yes"
+               },
+               "headline": "Palestinian prisoners heading home",
+               "desc": {
+                   "paragraphs": [
+                       {
+                           "id": "paragraph_DA3E1599-A02B-FFE9-6392-15E890037361",
+                           "text": "CNN's Matthew Chance reports on the homecoming for more than a thousand Palestinians.",
+                           "pagenumber": 1,
+                           "format": [
+                           ]
+                       }
+                   ]
+               },
+               "canSyndicate": true,
+               "sponsorship": "",
+               "dataSourceLink": "",
+               "show": "",
+               "type": "video",
+               "lastModifiedUser": "tstevenson",
+               "title": "Palestinian prisoners heading home",
+               "publishDate": "2011-10-18T09:13:34Z",
+               "tags": [
+                   {
+                       "name": "image_550E5382-ABBE-B799-9BE2-15C854AFB5E7",
+                       "data": {
+                           "index": 0,
+                           "associatedType": "image",
+                           "name": "associatedImage",
+                           "active": true
+                       },
+                       "type": "association"
+                   }
+               ],
+               "numericId": "1318919782",
+               "editorialSource": "CNN",
+               "relatedElementsArray": [
+                   {
+                       "text": "Palestinian prisoners leave jails as part of swap for Israeli soldier",
+                       "target": {
+                           "uri": "http://edition.cnn.com/2011/10/18/world/meast/israel-prisoner-swap/index.html?hpt=hp_t1"
+                       },
+                       "type": "hyperlink"
+                   },
+                   {
+                       "text": "World News - International Headlines, Stories and Video from CNN.com",
+                       "target": {
+                           "uri": "http://edition.cnn.com/WORLD/"
+                       },
+                       "type": "hyperlink"
+                   }
+               ],
+               "additionalCategories": [
+                   "topvideos"
+               ],
+               "thumbnails": [
+                   {
+                       "numericId": "1318920410",
+                       "tags": [
+                       ],
+                       "cutsOid": "cuts_14912575-DD70-3FFF-0F10-15C854AFD9F2",
+                       "dam_id": "111018064650-chance-israel-palestine-exchange-00035116",
+                       "caption": "chance israel palestine exchange_00035116",
+                       "type": "image",
+                       "uri": "chance israel palestine exchange_00035116.jpg",
+                       "lastModifiedUser": "tstevenson",
+                       "_rev": "1-1db77f34efabbfae35c6621bbb7cc9b2",
+                       "_id": "image_550E5382-ABBE-B799-9BE2-15C854AFB5E7",
+                       "lastModifiedDate": "2011-10-18T06:46:44Z",
+                       "dateCreated": "2011-10-18T06:46:50Z",
+                       "filename": "chance israel palestine exchange_00035116.jpg",
+                       "slug": "chance israel palestine exchange_00035116",
+                       "cuts": {
+                           "custom1": {
+                               "height": 300,
+                               "width": 200,
+                               "type": "JPG",
+                               "uri": "/111018064650-chance-israel-palestine-exchange-00035116-custom-1.jpg"
+                           },
+                           "horizontalGallery": {
+                               "height": 360,
+                               "width": 640,
+                               "type": "JPG",
+                               "uri": "/111018064650-chance-israel-palestine-exchange-00035116-horizontal-gallery.jpg"
+                           },
+                           "custom2": {
+                               "height": 200,
+                               "width": 300,
+                               "type": "JPG",
+                               "uri": "/111018064650-chance-israel-palestine-exchange-00035116-custom-2.jpg"
+                           },
+                           "assign": {
+                               "height": 186,
+                               "width": 248,
+                               "type": "JPG",
+                               "uri": "/111018064650-chance-israel-palestine-exchange-00035116-assign.jpg"
+                           },
+                           "techNews": {
+                               "height": 110,
+                               "width": 210,
+                               "type": "JPG",
+                               "uri": "/111018064650-chance-israel-palestine-exchange-00035116-tech-news.jpg"
+                           },
+                           "binTease": {
+                               "height": 84,
+                               "width": 220,
+                               "type": "JPG",
+                               "uri": "/111018064650-chance-israel-palestine-exchange-00035116-bin-tease.jpg"
+                           },
+                           "bVPPlaylist": {
+                               "height": 25,
+                               "width": 44,
+                               "type": "JPG",
+                               "uri": "/111018064650-chance-israel-palestine-exchange-00035116-bvp-playlist.jpg"
+                           },
+                           "teaseMost": {
+                               "height": 70,
+                               "width": 125,
+                               "type": "JPG",
+                               "uri": "/111018064650-chance-israel-palestine-exchange-00035116-tease-most.jpg"
+                           },
+                           "iReportGallery": {
+                               "height": 323,
+                               "width": 430,
+                               "type": "JPG",
+                               "uri": "/111018064650-chance-israel-palestine-exchange-00035116-ireport-gallery.jpg"
+                           },
+                           "videoTease": {
+                               "height": 68,
+                               "width": 120,
+                               "type": "JPG",
+                               "uri": "/111018064650-chance-israel-palestine-exchange-00035116-video-tease.jpg"
+                           },
+                           "t1Entertainment": {
+                               "height": 540,
+                               "width": 300,
+                               "type": "JPG",
+                               "uri": "/111018064650-chance-israel-palestine-exchange-00035116-t1-entertainment.jpg"
+                           },
+                           "liveVideo": {
+                               "height": 324,
+                               "width": 576,
+                               "type": "JPG",
+                               "uri": "/111018064650-chance-israel-palestine-exchange-00035116-live-video.jpg"
+                           },
+                           "quoteboard": {
+                               "height": 204,
+                               "width": 980,
+                               "type": "JPG",
+                               "uri": "/111018064650-chance-israel-palestine-exchange-00035116-quote-board.jpg"
+                           },
+                           "verticalGallery": {
+                               "height": 360,
+                               "width": 270,
+                               "type": "JPG",
+                               "uri": "/111018064650-chance-israel-palestine-exchange-00035116-vertical-gallery.jpg"
+                           },
+                           "videoSynd5": {
+                               "height": 90,
+                               "width": 120,
+                               "type": "JPG",
+                               "uri": "/111018064650-chance-israel-palestine-exchange-00035116-video-synd-5.jpg"
+                           },
+                           "videoSynd4": {
+                               "height": 240,
+                               "width": 320,
+                               "type": "JPG",
+                               "uri": "/111018064650-chance-israel-palestine-exchange-00035116-video-synd-4.jpg"
+                           },
+                           "videoSynd3": {
+                               "height": 508,
+                               "width": 640,
+                               "type": "JPG",
+                               "uri": "/111018064650-chance-israel-palestine-exchange-00035116-video-synd-3.jpg"
+                           },
+                           "horizontalLargeGallery": {
+                               "height": 552,
+                               "width": 980,
+                               "type": "JPG",
+                               "uri": "/111018064650-chance-israel-palestine-exchange-00035116-horizontal-large-gallery.jpg"
+                           },
+                           "videoSynd2": {
+                               "height": 480,
+                               "width": 640,
+                               "type": "JPG",
+                               "uri": "/111018064650-chance-israel-palestine-exchange-00035116-video-synd-2.jpg"
+                           },
+                           "politicsHeadshots": {
+                               "height": 96,
+                               "width": 114,
+                               "type": "JPG",
+                               "uri": "/111018064650-chance-israel-palestine-exchange-00035116-politics-headshots.jpg"
+                           },
+                           "videoSynd1": {
+                               "height": 68,
+                               "width": 90,
+                               "type": "JPG",
+                               "uri": "/111018064650-chance-israel-palestine-exchange-00035116-video-synd-1.jpg"
+                           },
+                           "hPVideo": {
+                               "height": 144,
+                               "width": 256,
+                               "type": "JPG",
+                               "uri": "/111018064650-chance-israel-palestine-exchange-00035116-hp-video.jpg"
+                           },
+                           "stacks": {
+                               "height": 436,
+                               "width": 640,
+                               "type": "JPG",
+                               "uri": "/111018064650-chance-israel-palestine-exchange-00035116-stacks.jpg"
+                           },
+                           "iPhoneTease": {
+                               "height": 49,
+                               "width": 87,
+                               "type": "JPG",
+                               "uri": "/111018064650-chance-israel-palestine-exchange-00035116-iphone-tease.jpg"
+                           },
+                           "videoCF": {
+                               "height": 191,
+                               "width": 240,
+                               "type": "JPG",
+                               "uri": "/111018064650-chance-israel-palestine-exchange-00035116-video-cf.jpg"
+                           },
+                           "t3Entertainment": {
+                               "height": 226,
+                               "width": 210,
+                               "type": "JPG",
+                               "uri": "/111018064650-chance-israel-palestine-exchange-00035116-t3-entertainment.jpg"
+                           },
+                           "t1Panoramic": {
+                               "height": 250,
+                               "width": 670,
+                               "type": "JPG",
+                               "uri": "/111018064650-chance-israel-palestine-exchange-00035116-t1-panoramic.jpg"
+                           },
+                           "storyTablet": {
+                               "height": 432,
+                               "width": 768,
+                               "type": "JPG",
+                               "uri": "/111018064650-chance-israel-palestine-exchange-00035116-story-tablet.jpg"
+                           },
+                           "tabletLarge": {
+                               "height": 576,
+                               "width": 1024,
+                               "type": "JPG",
+                               "uri": "/111018064650-chance-israel-palestine-exchange-00035116-tablet-large.jpg"
+                           },
+                           "largeMain": {
+                               "height": 390,
+                               "width": 390,
+                               "type": "JPG",
+                               "uri": "/111018064650-chance-israel-palestine-exchange-00035116-large-main.jpg"
+                           },
+                           "iPhoneTeaseVid": {
+                               "height": 49,
+                               "width": 88,
+                               "type": "JPG",
+                               "uri": "/111018064650-chance-israel-palestine-exchange-00035116-iphone-tease-vid.jpg"
+                           },
+                           "entertainMedia": {
+                               "height": 174,
+                               "width": 174,
+                               "type": "JPG",
+                               "uri": "/111018064650-chance-israel-palestine-exchange-00035116-entertain-media.jpg"
+                           },
+                           "timeline": {
+                               "height": 223,
+                               "width": 167,
+                               "type": "JPG",
+                               "uri": "/111018064650-chance-israel-palestine-exchange-00035116-timeline.jpg"
+                           },
+                           "storyTop": {
+                               "height": 360,
+                               "width": 640,
+                               "type": "JPG",
+                               "uri": "/111018064650-chance-israel-palestine-exchange-00035116-story-top.jpg"
+                           },
+                           "searchTease": {
+                               "height": 106,
+                               "width": 188,
+                               "type": "JPG",
+                               "uri": "/111018064650-chance-israel-palestine-exchange-00035116-search-tease.jpg"
+                           },
+                           "topTease": {
+                               "height": 51,
+                               "width": 90,
+                               "type": "JPG",
+                               "uri": "/111018064650-chance-israel-palestine-exchange-00035116-top-tease.jpg"
+                           },
+                           "iReportTease": {
+                               "height": 69,
+                               "width": 126,
+                               "type": "JPG",
+                               "uri": "/111018064650-chance-israel-palestine-exchange-00035116-ireport-tease.jpg"
+                           },
+                           "inspectorThumbnail": {
+                               "height": 58,
+                               "width": 88,
+                               "type": "JPG",
+                               "uri": "/111018064650-chance-israel-palestine-exchange-00035116-inspector-thumbnail.jpg"
+                           },
+                           "t1OhDear": {
+                               "height": 375,
+                               "width": 670,
+                               "type": "JPG",
+                               "uri": "/111018064650-chance-israel-palestine-exchange-00035116-t1-oh-dear.jpg"
+                           },
+                           "t1Main": {
+                               "height": 250,
+                               "width": 250,
+                               "type": "JPG",
+                               "uri": "/111018064650-chance-israel-palestine-exchange-00035116-t1-main.jpg"
+                           },
+                           "wall3Tease": {
+                               "height": 120,
+                               "width": 213,
+                               "type": "JPG",
+                               "uri": "/111018064650-chance-israel-palestine-exchange-00035116-wall-3-tease.jpg"
+                           },
+                           "t1Flip": {
+                               "height": 280,
+                               "width": 637,
+                               "type": "JPG",
+                               "uri": "/111018064650-chance-israel-palestine-exchange-00035116-t1-flip.jpg"
+                           },
+                           "leftTease": {
+                               "height": 122,
+                               "width": 214,
+                               "type": "JPG",
+                               "uri": "/111018064650-chance-israel-palestine-exchange-00035116-left-tease.jpg"
+                           },
+                           "teaseAvatar": {
+                               "height": 35,
+                               "width": 35,
+                               "type": "JPG",
+                               "uri": "/111018064650-chance-israel-palestine-exchange-00035116-tease-avatar.jpg"
+                           },
+                           "bVPTease": {
+                               "height": 70,
+                               "width": 124,
+                               "type": "JPG",
+                               "uri": "/111018064650-chance-israel-palestine-exchange-00035116-bvp-tease.jpg"
+                           },
+                           "c1Main": {
+                               "height": 234,
+                               "width": 416,
+                               "type": "JPG",
+                               "uri": "/111018064650-chance-israel-palestine-exchange-00035116-c1-main.jpg"
+                           },
+                           "wall5Tease": {
+                               "height": 72,
+                               "width": 128,
+                               "type": "JPG",
+                               "uri": "/111018064650-chance-israel-palestine-exchange-00035116-wall-5-tease.jpg"
+                           },
+                           "videoStory": {
+                               "height": 164,
+                               "width": 216,
+                               "type": "JPG",
+                               "uri": "/111018064650-chance-israel-palestine-exchange-00035116-video-story.jpg"
+                           },
+                           "smallVideo": {
+                               "height": 180,
+                               "width": 320,
+                               "type": "JPG",
+                               "uri": "/111018064650-chance-israel-palestine-exchange-00035116-small-video.jpg"
+                           },
+                           "phoneGallery": {
+                               "height": 320,
+                               "width": 480,
+                               "type": "JPG",
+                               "uri": "/111018064650-chance-israel-palestine-exchange-00035116-phone-gallery.jpg"
+                           },
+                           "whatMatters": {
+                               "height": 48,
+                               "width": 64,
+                               "type": "JPG",
+                               "uri": "/111018064650-chance-israel-palestine-exchange-00035116-what-matters.jpg"
+                           },
+                           "wall4Tease": {
+                               "height": 90,
+                               "width": 160,
+                               "type": "JPG",
+                               "uri": "/111018064650-chance-israel-palestine-exchange-00035116-wall-4-tease.jpg"
+                           },
+                           "tease1": {
+                               "height": 32,
+                               "width": 40,
+                               "type": "JPG",
+                               "uri": "/111018064650-chance-israel-palestine-exchange-00035116-tease-1.jpg"
+                           },
+                           "politicsiReport": {
+                               "height": 219,
+                               "width": 292,
+                               "type": "JPG",
+                               "uri": "/111018064650-chance-israel-palestine-exchange-00035116-politics-ireport.jpg"
+                           },
+                           "storyBody": {
+                               "height": 169,
+                               "width": 300,
+                               "type": "JPG",
+                               "uri": "/111018064650-chance-israel-palestine-exchange-00035116-story-body.jpg"
+                           },
+                           "teaseWide": {
+                               "height": 100,
+                               "width": 210,
+                               "type": "JPG",
+                               "uri": "/111018064650-chance-israel-palestine-exchange-00035116-tease-wide.jpg"
+                           },
+                           "hotTopic": {
+                               "height": 216,
+                               "width": 384,
+                               "type": "JPG",
+                               "uri": "/111018064650-chance-israel-palestine-exchange-00035116-hot-topic.jpg"
+                           },
+                           "topics": {
+                               "height": 60,
+                               "width": 60,
+                               "type": "JPG",
+                               "uri": "/111018064650-chance-israel-palestine-exchange-00035116-topics.jpg"
+                           },
+                           "t1Giant": {
+                               "height": 348,
+                               "width": 793,
+                               "type": "JPG",
+                               "uri": "/111018064650-chance-israel-palestine-exchange-00035116-t1-giant.jpg"
+                           },
+                           "tease2": {
+                               "height": 45,
+                               "width": 60,
+                               "type": "JPG",
+                               "uri": "/111018064650-chance-israel-palestine-exchange-00035116-tease-2.jpg"
+                           },
+                           "entertainFeature": {
+                               "height": 330,
+                               "width": 442,
+                               "type": "JPG",
+                               "uri": "/111018064650-chance-israel-palestine-exchange-00035116-entertain-feature.jpg"
+                           },
+                           "t1iPhone": {
+                               "height": 254,
+                               "width": 320,
+                               "type": "JPG",
+                               "uri": "/111018064650-chance-israel-palestine-exchange-00035116-t1-iphone.jpg"
+                           },
+                           "verticalLargeGallery": {
+                               "height": 552,
+                               "width": 414,
+                               "type": "JPG",
+                               "uri": "/111018064650-chance-israel-palestine-exchange-00035116-vertical-large-gallery.jpg"
+                           }
+                       }
+                   }
+               ],
+               "encodedDate": "2011-10-18T06:50:21Z",
+               "lastPublishedUser": "tstevenson",
+               "uri": "/video/data/3.0/video/world/2011/10/18/chance-israel-palestine-exchange.cnn/index.xml",
+               "photos": "",
+               "isExpired": false,
+               "duration": "00:04:25",
+               "category": "world",
+               "trt": 265.16516516516515,
+               "source": "",
+               "firstPublishDate": "2011-10-18T07:22:25Z",
+               "videoRate": "",
+               "lastModifiedDate": "2011-10-18T09:13:28Z",
+               "dateCreated": "2011-10-18T06:36:22Z",
+               "seo": {
+               },
+               "slug": "chance israel palestine exchange",
+               "videoProfiles": {
+                   "320x180": "/world/2011/10/18/chance-israel-palestine-exchange.cnn_320x180_dl.flv",
+                   "768x432_1300k_mp4": "/world/2011/10/18/chance-israel-palestine-exchange.cnn_18025025_768x432_1300k.mp4",
+                   "640x360": "/world/2011/10/18/chance-israel-palestine-exchange.cnn_640x360_dl.flv",
+                   "ios_150": "/world/2011/10/18/chance-israel-palestine-exchange.cnn_ios_150.mp4",
+                   "cnn_iphone_cell": "/world/2011/10/18/chance-israel-palestine-exchange.cnn_cnn_iphone_cell.mp4",
+                   "ios_650": "/world/2011/10/18/chance-israel-palestine-exchange.cnn_ios_650.mp4",
+                   "512x288_550k": "/world/2011/10/18/chance-israel-palestine-exchange.cnn_512x288_550k.mp4",
+                   "384x216": "/world/2011/10/18/chance-israel-palestine-exchange.cnn_384x216_dl.flv",
+                   "ios_audio": "/world/2011/10/18/chance-israel-palestine-exchange.cnn_ios_audio.mp4",
+                   "640x360_900k_mp4": "/world/2011/10/18/chance-israel-palestine-exchange.cnn_18025025_640x360_900k.mp4",
+                   "896x504_1850k_mp4": "/world/2011/10/18/chance-israel-palestine-exchange.cnn_18025025_896x504_1850k.mp4",
+                   "1280x720_3500k_mp4": "/world/2011/10/18/chance-israel-palestine-exchange.cnn_18025025_1280x720_3500k.mp4",
+                   "512x288_550k_mp4": "/world/2011/10/18/chance-israel-palestine-exchange.cnn_18025025_512x288_550k.mp4",
+                   "416x234": "/world/2011/10/18/chance-israel-palestine-exchange.cnn_416x234_dl.flv",
+                   "768x432_1300k": "/world/2011/10/18/chance-israel-palestine-exchange.cnn_768x432_1300k.mp4",
+                   "640x360_900k": "/world/2011/10/18/chance-israel-palestine-exchange.cnn_640x360_900k.mp4",
+                   "cnn_iphone_wifi_hi": "/world/2011/10/18/chance-israel-palestine-exchange.cnn_cnn_iphone_wifi_hi.mp4",
+                   "ios_1240": "/world/2011/10/18/chance-israel-palestine-exchange.cnn_ios_1240.mp4",
+                   "cnn_16x9": "/world/2011/10/18/chance-israel-palestine-exchange.cnn.ws.wmv",
+                   "ios_840": "/world/2011/10/18/chance-israel-palestine-exchange.cnn_ios_840.mp4",
+                   "1280x720_3500k": "/world/2011/10/18/chance-israel-palestine-exchange.cnn_1280x720_3500k.mp4",
+                   "576x324": "/world/2011/10/18/chance-israel-palestine-exchange.cnn_576x324_dl.flv",
+                   "896x504_1850k": "/world/2011/10/18/chance-israel-palestine-exchange.cnn_896x504_1850k.mp4",
+                   "ios_440": "/world/2011/10/18/chance-israel-palestine-exchange.cnn_ios_440.mp4"
+              }
+            }
+          },
+          {
+            "id": "h_944ff1973e0067b64f1804da6962c386",
+            "imageId": "h_944ff1973e0067b64f1804da6962c386",
+            "type": "image",
+            "referenceUrl": "http://dev.hypatia.services.dmtio.net/svc/content/v2/search/collection1/id:h_944ff1973e0067b64f1804da6962c386",
+            "referenceUri": "/svc/content/v2/search/collection1/id:h_944ff1973e0067b64f1804da6962c386",
+            "location": "paragraph_352B09B9-EA56-A014-509F-9AE3E3D82CBC",
+            "slug": "Jellyfish",
+            "dam_id": "160225184003-jellyfish",
+            "photographer": "Hang Quan",
+            "caption": null,
+            "cuts": {
+              "small4to3": {
+                "height": 186,
+                "width": 248,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/160225184003-jellyfish-assign.jpg"
+              },
+              "medium4to3": {
+                "height": 186,
+                "width": 248,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/160225184003-jellyfish-assign.jpg"
+              },
+              "large16to9": {
+                "height": 324,
+                "width": 576,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/160225184003-jellyfish-live-video.jpg"
+              },
+              "medium3to4": {
+                "height": 360,
+                "width": 270,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/160225184003-jellyfish-vertical-gallery.jpg"
+              },
+              "large4to3": {
+                "height": 480,
+                "width": 640,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/160225184003-jellyfish-video-synd-2.jpg"
+              },
+              "small16to9": {
+                "height": 144,
+                "width": 256,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/160225184003-jellyfish-hp-video.jpg"
+              },
+              "iPhoneTease": {
+                "height": 49,
+                "width": 87,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/160225184003-jellyfish-iphone-tease.jpg"
+              },
+              "exlarge16to9": {
+                "height": 619,
+                "width": 1100,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/160225184003-jellyfish-super-169.jpg"
+              },
+              "t1Panoramic": {
+                "height": 250,
+                "width": 670,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/160225184003-jellyfish-t1-panoramic.jpg"
+              },
+              "storyTablet": {
+                "height": 432,
+                "width": 768,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/160225184003-jellyfish-story-tablet.jpg"
+              },
+              "large1to1": {
+                "height": 300,
+                "width": 300,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/160225184003-jellyfish-large-11.jpg"
+              },
+              "storyTop": {
+                "height": 360,
+                "width": 640,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/160225184003-jellyfish-story-top.jpg"
+              },
+              "topTease": {
+                "height": 51,
+                "width": 90,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/160225184003-jellyfish-top-tease.jpg"
+              },
+              "small1to1": {
+                "height": 250,
+                "width": 250,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/160225184003-jellyfish-t1-main.jpg"
+              },
+              "t1Main": {
+                "height": 250,
+                "width": 250,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/160225184003-jellyfish-t1-main.jpg"
+              },
+              "medium1to1": {
+                "height": 250,
+                "width": 250,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/160225184003-jellyfish-t1-main.jpg"
+              },
+              "c1Main": {
+                "height": 234,
+                "width": 416,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/160225184003-jellyfish-c1-main.jpg"
+              },
+              "phoneGallery": {
+                "height": 320,
+                "width": 480,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/160225184003-jellyfish-phone-gallery.jpg"
+              },
+              "smallVideo": {
+                "height": 180,
+                "width": 320,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/160225184003-jellyfish-small-video.jpg"
+              },
+              "storyBody": {
+                "height": 169,
+                "width": 300,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/160225184003-jellyfish-story-body.jpg"
+              },
+              "medium16to9": {
+                "height": 169,
+                "width": 300,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/160225184003-jellyfish-story-body.jpg"
+              },
+              "t1iPhone": {
+                "height": 254,
+                "width": 320,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/160225184003-jellyfish-t1-iphone.jpg"
+              },
+              "large3to4": {
+                "height": 552,
+                "width": 414,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/160225184003-jellyfish-vertical-large-gallery.jpg"
+              }
+            }
+          },
+          {
+            "id": "h_2439855b1c1db9aff82fc03ae96ff73c",
+            "referenceId": "h_2439855b1c1db9aff82fc03ae96ff73c",
+            "type": "reference",
+            "location": "paragraph_0893A0E7-6127-6368-E6CA-FCC2B38671CD",
+            "headline": "Disney Fantasy1345  updated  Ë",
+            "description": [],
+            "url": "http://dev.next.cnn.com/2013/03/14/travel/gallery/cruise-critic-reader-awards/index.html",
+            "referenceType": "gallery",
+            "referenceUrl": "http://dev.hypatia.services.dmtio.net/svc/content/v2/search/collection1/id:h_2439855b1c1db9aff82fc03ae96ff73c",
+            "referenceUri": "/svc/content/v2/search/collection1/id:h_2439855b1c1db9aff82fc03ae96ff73c",
+            "cuts": null,
+            "auxiliaryText": null
+          },
+          {
+            "id": "h_2439855b1c1db9aff82fc03ae96ff73c",
+            "referenceId": "h_2439855b1c1db9aff82fc03ae96ff73c",
+            "type": "reference",
+            "location": "paragraph_0893A0E7-6127-6368-E6CA-FCC2B38671CD",
+            "headline": "Disney Fantasy1345  updated  Ë",
+            "description": [],
+            "url": "http://dev.next.cnn.com/2013/03/14/travel/gallery/cruise-critic-reader-awards/index.html",
+            "referenceType": "gallery",
+            "referenceUrl": "http://dev.hypatia.services.dmtio.net/svc/content/v2/search/collection1/id:h_2439855b1c1db9aff82fc03ae96ff73c",
+            "referenceUri": "/svc/content/v2/search/collection1/id:h_2439855b1c1db9aff82fc03ae96ff73c",
+            "cuts": {
+              "small4to3": {
+                "height": 186,
+                "width": 248,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/120420051823-kevin-durant-nba-assign.jpg"
+              },
+              "medium4to3": {
+                "height": 186,
+                "width": 248,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/120420051823-kevin-durant-nba-assign.jpg"
+              },
+              "large16to9": {
+                "height": 324,
+                "width": 576,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/120420051823-kevin-durant-nba-live-video.jpg"
+              },
+              "medium3to4": {
+                "height": 360,
+                "width": 270,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/120420051823-kevin-durant-nba-vertical-gallery.jpg"
+              },
+              "large4to3": {
+                "height": 480,
+                "width": 640,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/120420051823-kevin-durant-nba-video-synd-2.jpg"
+              },
+              "small16to9": {
+                "height": 144,
+                "width": 256,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/120420051823-kevin-durant-nba-hp-video.jpg"
+              },
+              "iPhoneTease": {
+                "height": 49,
+                "width": 87,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/120420051823-kevin-durant-nba-iphone-tease.jpg"
+              },
+              "exlarge16to9": {
+                "height": 619,
+                "width": 1100,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/120420131823-kevin-durant-nba-super-169.jpg"
+              },
+              "t1Panoramic": {
+                "height": 250,
+                "width": 670,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/120420051823-kevin-durant-nba-t1-panoramic.jpg"
+              },
+              "storyTablet": {
+                "height": 432,
+                "width": 768,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/120420051823-kevin-durant-nba-story-tablet.jpg"
+              },
+              "large1to1": {
+                "height": 300,
+                "width": 300,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/120420131823-kevin-durant-nba-large-11.jpg"
+              },
+              "storyTop": {
+                "height": 360,
+                "width": 640,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/120420051823-kevin-durant-nba-story-top.jpg"
+              },
+              "topTease": {
+                "height": 51,
+                "width": 90,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/120420051823-kevin-durant-nba-top-tease.jpg"
+              },
+              "small1to1": {
+                "height": 250,
+                "width": 250,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/120420051823-kevin-durant-nba-t1-main.jpg"
+              },
+              "t1Main": {
+                "height": 250,
+                "width": 250,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/120420051823-kevin-durant-nba-t1-main.jpg"
+              },
+              "medium1to1": {
+                "height": 250,
+                "width": 250,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/120420051823-kevin-durant-nba-t1-main.jpg"
+              },
+              "c1Main": {
+                "height": 234,
+                "width": 416,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/120420051823-kevin-durant-nba-c1-main.jpg"
+              },
+              "smallVideo": {
+                "height": 180,
+                "width": 320,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/120420051823-kevin-durant-nba-small-video.jpg"
+              },
+              "phoneGallery": {
+                "height": 320,
+                "width": 480,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/120420051823-kevin-durant-nba-phone-gallery.jpg"
+              },
+              "storyBody": {
+                "height": 169,
+                "width": 300,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/120420051823-kevin-durant-nba-story-body.jpg"
+              },
+              "medium16to9": {
+                "height": 169,
+                "width": 300,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/120420051823-kevin-durant-nba-story-body.jpg"
+              },
+              "t1iPhone": {
+                "height": 254,
+                "width": 320,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/120420051823-kevin-durant-nba-t1-iphone.jpg"
+              },
+              "large3to4": {
+                "height": 552,
+                "width": 414,
+                "url": "http://preview.dev.next.cnn.com/dam/assets/120420051823-kevin-durant-nba-vertical-large-gallery.jpg"
+              }
+            },
+            "auxiliaryText": null
+          },
+          {
+            "id": "h_2439855b1c1db9aff82fc03ae96ff73c",
+            "referenceId": "h_2439855b1c1db9aff82fc03ae96ff73c",
+            "type": "reference",
+            "location": "tease",
+            "headline": "Disney Fantasy1345  updated  Ë",
+            "description": [],
+            "url": "http://dev.next.cnn.com/2013/03/14/travel/gallery/cruise-critic-reader-awards/index.html",
+            "referenceType": "gallery",
+            "referenceUrl": "http://dev.hypatia.services.dmtio.net/svc/content/v2/search/collection1/id:h_2439855b1c1db9aff82fc03ae96ff73c",
+            "referenceUri": "/svc/content/v2/search/collection1/id:h_2439855b1c1db9aff82fc03ae96ff73c",
+            "cuts": null,
+            "auxiliaryText": null
+          }
+        ],
+        "autoZone": {
+          "auto": false
+        }
+      },
+      "parent": {
+        "id": null
+      },
+      "language": "en"
+    }
+  ]
+}

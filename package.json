@@ -23,6 +23,7 @@
   },
   "dependencies": {
     "hapi": "^13.2.1",
+    "moment": "^2.12.0",
     "rss": "^1.2.1",
     "xmlbuilder": "^5.0.1"
   },
