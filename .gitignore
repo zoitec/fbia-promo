@@ -1,0 +1,8 @@
+node_modules
+*.json
+*.html
+*json*
+*.xml
+*.rss
+*.csv
+*test*
